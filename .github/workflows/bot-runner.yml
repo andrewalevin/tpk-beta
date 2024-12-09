@@ -34,6 +34,9 @@ jobs:
 
       - name: 🖼 Frontend
         run: telepostkeeper-frontend
+
+      - name: 🖼 CLI CHECK
+        run: ls -lha
       
       - name: 💾 Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
