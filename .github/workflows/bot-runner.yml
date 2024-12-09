@@ -28,6 +28,9 @@ jobs:
 
       - name: 🔄 Install TPK
         run: pip install telepostkeeper
+
+      - name: 🖼 CLI CHECK
+        run: ls -lha
       
       - name: 📡 Listening
         run: telepostkeeper-timekiller 60
