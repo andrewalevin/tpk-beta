@@ -1,12 +1,18 @@
 name: 💎 tpk-runner
 run-name: 🚀 tpk-runner (${{ github.actor }})🚀
 on:
-  schedule:
-    - cron: '*/10 * * * *'
+  #schedule:
+  #  - cron: '*/10 * * * *'
+  push:
+    branches:
+      - main
+  release:
+    types: [published]
+    
 permissions:
   contents: write
 jobs:
-  💎 tpk-runner:
+  tpk-runner:
     runs-on: ubuntu-latest
     steps:
       - name: 👋 Checkout repository
