@@ -1,4 +1,4 @@
-name: tpk-runner
+name: 💎 tpk-runner
 run-name: 🚀 tpk-runner (${{ github.actor }})🚀
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 jobs:
-  tpk-runner:
+  💎 tpk-runner:
     runs-on: ubuntu-latest
     steps:
       - name: 👋 Checkout repository
