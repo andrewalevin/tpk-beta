@@ -1,0 +1,38 @@
+name: tpk-runner
+run-name: 🚀 tpk-runner (${{ github.actor }})🚀
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+permissions:
+  contents: write
+jobs:
+  tpk-runner:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 👋 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python environment
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: 🔄 Install TPK
+        run: pip install telepostkeeper
+      
+      - name: 📡 Listening
+        run: telepostkeeper-timekiller 60
+
+      - name: 🖼 Frontend
+        run: telepostkeeper-frontend
+      
+      - name: 💾 Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply automatic changes
+
+
+
+
+
+  
