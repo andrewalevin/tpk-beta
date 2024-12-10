@@ -17,14 +17,20 @@ jobs:
     env:
       TPK_BOT_TOKEN: ${{ secrets.TPK_BOT_TOKEN }}
       TPK_ENCRYPT_AES_KEY_BASE64: ${{ secrets.TPK_ENCRYPT_AES_KEY_BASE64 }}
-      TPK_CHANNELS_IDS_LIST: ${{ vars.TPK_CHANNELS_IDS_LIST }}
-      TPK_CHANNELS_IDS_LIST_ENCRYPTED: ${{ vars.TPK_CHANNELS_IDS_LIST_ENCRYPTED }}
-      TPK_ENCRYPT_AES_IV_BASE64: ${{ vars.TPK_ENCRYPT_AES_IV_BASE64 }}
-      TPK_SKIP_DOWNLOAD_BIGGER: ${{ vars.TPK_SKIP_DOWNLOAD_BIGGER }}
-      TPK_STORE_DIR: ${{ vars.TPK_STORE_DIR }}      
+    #  TPK_CHANNELS_IDS_LIST: ${{ vars.TPK_CHANNELS_IDS_LIST }}
+    #  TPK_CHANNELS_IDS_LIST_ENCRYPTED: ${{ vars.TPK_CHANNELS_IDS_LIST_ENCRYPTED }}
+    #  TPK_ENCRYPT_AES_IV_BASE64: ${{ vars.TPK_ENCRYPT_AES_IV_BASE64 }}
+    #  TPK_SKIP_DOWNLOAD_BIGGER: ${{ vars.TPK_SKIP_DOWNLOAD_BIGGER }}
+    #  TPK_STORE_DIR: ${{ vars.TPK_STORE_DIR }}      
     steps:
       - name: 👋 Checkout repository
         uses: actions/checkout@v4
+
+      - name: Set environment variables dynamically
+        run: |
+          for var in $(printenv | grep TPK_); do
+            export "$var"
+          done
 
       - name: 🐍 Set up Python environment
         uses: actions/setup-python@v3
