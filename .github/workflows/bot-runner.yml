@@ -1,8 +1,8 @@
 name: 💎 tpk-runner
 run-name: 🚀 tpk-runner (${{ github.actor }})🚀
 on:
-  #schedule:
-  #  - cron: '*/10 * * * *'
+  schedule:
+    - cron: '*/10 * * * *'
   push:
     branches:
       - main
@@ -26,10 +26,6 @@ jobs:
       - name: 👋 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 👋 Envs
-        run: |
-          echo "chan list: $TPK_CHANNELS_IDS_LIST"
-
       - name: 🐍 Set up Python environment
         uses: actions/setup-python@v3
         with:
@@ -38,17 +34,11 @@ jobs:
       - name: 🔄 Install TPK
         run: pip install telepostkeeper
 
-      - name: 🖼 CLI CHECK
-        run: ls -lha
-      
       - name: 📡 Listening
-        run: telepostkeeper-timekiller 60
+        run: telepostkeeper-timekiller 30
 
       - name: 🖼 Frontend
         run: telepostkeeper-frontend
-
-      - name: 🖼 CLI CHECK
-        run: ls -lha
       
       - name: 💾 Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
