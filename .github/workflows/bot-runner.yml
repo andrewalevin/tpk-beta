@@ -18,11 +18,11 @@ jobs:
       TPK_BOT_TOKEN: ${{ secrets.TPK_BOT_TOKEN }}
       TPK_ENCRYPT_AES_KEY_BASE64: ${{ secrets.TPK_ENCRYPT_AES_KEY_BASE64 }}
     steps:
-      - name: 👋 Envs
-        run: echo "channels: $TPK_CHANNELS_IDS_LIST"
-    
       - name: 👋 Checkout repository
         uses: actions/checkout@v4
+
+      - name: 👋 Envs
+        run: echo ${{ env.TPK_CHANNELS_IDS_LIST }}
 
       - name: 🐍 Set up Python environment
         uses: actions/setup-python@v3
