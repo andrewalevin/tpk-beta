@@ -35,7 +35,7 @@ jobs:
         run: pip install telepostkeeper
 
       - name: 📡 Listening
-        run: telepostkeeper-timekiller 30
+        run: timekiller "telepostkeeper" --timeout 30
 
       - name: 🖼 Frontend
         run: telepostkeeper-frontend
