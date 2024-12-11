@@ -34,7 +34,7 @@ jobs:
       - name: 🔄 Install TPK
         run: pip install telepostkeeper
 
-      - name: 🔄 Install TPK
+      - name: 🔄 Install process-time-killer
         run: pip install process-time-killer
 
       - name: 📡 Listening
