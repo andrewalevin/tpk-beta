@@ -40,10 +40,13 @@ jobs:
       - name: 🖼 Frontend
         run: telepostkeeper-frontend
       
+      - name: Get current date-time
+        run: echo "COMMIT_MESSAGE=$(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
       - name: 💾 Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Apply automatic changes
+          commit_message: ${{ env.COMMIT_MESSAGE }}
       
 
 
