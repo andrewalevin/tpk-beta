@@ -54,19 +54,42 @@
         }
 
         .post-date.encrypted::before {
-            content: "🔐 date (encrypted): ";
+            content: "date:";
             margin-right: .5rem;
+        }
+
+        .post-date.encrypted::after {
+            content: "🔐encrypted";
+            margin-left: .5rem;
         }
 
         .post-text.encrypted::before {
-            content: "🔐 text (encrypted): ";
-            margin-right: .5rem;
-        }
-        .post-file.encrypted::after {
-            content: "🔐 (encrypted): ";
+            content: "Text: ";
             margin-right: .5rem;
         }
 
+        .post-text.encrypted::after {
+            content: "🔐encrypted";
+            margin-left: .5rem;
+        }
+
+
+        .post-file.header {
+            margin-right: .5rem;
+        }
+
+        .post-file.encrypted::after {
+            content: "🔐 encrypted";
+            margin-left: .5rem;
+        }
+
+        a.description {
+          text-decoration: none;
+        }
+
+        a.description:hover {
+          text-decoration: underline;
+        }
 
     </style>
 
@@ -74,9 +97,9 @@
 <body class="bg-light d-flex flex-column min-vh-100">
     <div class="container py-3">
   <header>
-    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom justify-content-center text-center">
+    <div class="d-flex flex-column flex-md-row align-items-center pt-3 pb-3 mb-4 justify-content-center text-center">
         
-    <h3>2024</h3>
+    <h3></h3>
 
     </div>
   </header>
