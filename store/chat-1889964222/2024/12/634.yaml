@@ -1,0 +1,54 @@
+date: 2024-12-23 02:13:06+00:00
+type: text
+text: "import requests\nfrom pprint import pprint\n\ndef get_compatible_versions(package_name,\
+  \ python_version):\n    &quot;&quot;&quot;\n    Получает список версий пакета, совместимых\
+  \ с указанной версией Python.\n\n    :param package_name: str, имя пакета на PyPI\n\
+  \    :param python_version: str, версия Python (например, &#x27;3.7&#x27;)\n   \
+  \ :return: list, список подходящих версий пакета\n    &quot;&quot;&quot;\n    url\
+  \ = f&quot;<a href=\"https://pypi.org/pypi/{package_name}/json\">https://pypi.org/pypi/{package_name}/json</a>&quot;\n\
+  \    response = requests.get(url)\n\n    if response.status_code != 200:\n     \
+  \   raise ValueError(f&quot;Ошибка запроса: {response.status_code}&quot;)\n\n  \
+  \  data = response.json()\n    versions = data.get(&#x27;releases&#x27;, {})\n \
+  \   compatible_versions = []\n\n    for version, details in versions.items():\n\
+  \        if not details:  # Пропустить, если деталей нет\n            continue\n\
+  \        requires_python = details[0].get(&#x27;requires_python&#x27;)\n       \
+  \ v_python_version = details[0].get(&#x27;python_version&#x27;)\n\n        print(version)\n\
+  \        print(requires_python)\n        print(v_python_version)\n        print()\n\
+  \n\n        if not requires_python or &#x27;,&#x27; in requires_python:  # Пропуск\
+  \ условий с диапазонами\n            continue\n        min_version = requires_python.replace(&#x27;&gt;=&#x27;,\
+  \ &#x27;&#x27;)\n\n\n        if float(min_version) &lt;= float(python_version):\n\
+  \            compatible_versions.append(version)\n\n        print()\n\n    return\
+  \ compatible_versions\n\n# Пример использования\npython_version = &#x27;3.10&#x27;\n\
+  package_name = &#x27;pillow&#x27;\ncompatible_versions = get_compatible_versions(package_name,\
+  \ python_version)\n\nprint(&quot;Подходящие версии:&quot;)\npprint(compatible_versions)\n\
+  \n\nimport requests\nfrom pprint import pprint\n\ndef get_package_metadata(package_name):\n\
+  \    &quot;&quot;&quot;\n    Получает метаданные пакета, включая Classifiers.\n\n\
+  \    :param package_name: str, имя пакета на PyPI\n    :return: dict, метаданные\
+  \ пакета\n    &quot;&quot;&quot;\n    url = f&quot;<a href=\"https://pypi.org/pypi/{package_name}/json\"\
+  >https://pypi.org/pypi/{package_name}/json</a>&quot;\n    response = requests.get(url)\n\
+  \n    if response.status_code != 200:\n        raise ValueError(f&quot;Ошибка запроса:\
+  \ {response.status_code}&quot;)\n\n    data = response.json()\n    info = data.get(&#x27;info&#x27;,\
+  \ {})\n    classifiers = info.get(&#x27;classifiers&#x27;, [])\n\n    # Парсинг\
+  \ ключевых данных из classifiers\n    metadata = {\n        &quot;Programming Language&quot;:\
+  \ [cls for cls in classifiers if cls.startswith(&quot;Programming Language&quot;)]\n\
+  \    }\n\n    return metadata\n\n# Пример использования\npackage_name = &quot;pillow&quot;\n\
+  metadata = get_package_metadata(package_name)\n\nprint(&quot;Метаданные пакета:&quot;)\n\
+  pprint(metadata)\n\n\n\nprint(&#x27;===&#x27;*10)\n\nimport requests\nfrom pprint\
+  \ import pprint\n\ndef get_python_versions_for_package(package_name):\n    &quot;&quot;&quot;\n\
+  \    Получает версии Python, поддерживаемые всеми версиями пакета.\n\n    :param\
+  \ package_name: str, имя пакета на PyPI\n    :return: dict, где ключи - версии пакета,\
+  \ значения - поддерживаемые версии Python\n    &quot;&quot;&quot;\n    url = f&quot;<a\
+  \ href=\"https://pypi.org/pypi/{package_name}/json\">https://pypi.org/pypi/{package_name}/json</a>&quot;\n\
+  \    response = requests.get(url)\n\n    if response.status_code != 200:\n     \
+  \   raise ValueError(f&quot;Ошибка запроса: {response.status_code}&quot;)\n\n  \
+  \  data = response.json()\n    releases = data.get(&#x27;releases&#x27;, {})\n \
+  \   info = data.get(&#x27;info&#x27;, {})\n    all_classifiers = info.get(&#x27;classifiers&#x27;,\
+  \ [])\n\n    # Извлечение всех Python версий из classifiers\n    supported_python_versions\
+  \ = [\n        classifier.split(&quot;::&quot;)[-1].strip()\n        for classifier\
+  \ in all_classifiers\n        if classifier.startswith(&quot;Programming Language\
+  \ :: Python ::&quot;)\n    ]\n\n    # Сопоставление с каждой версией пакета\n  \
+  \  version_support = {}\n    for version, details in releases.items():\n       \
+  \ if details:\n            version_support[version] = supported_python_versions\n\
+  \n    return version_support\n\n# Пример использования\npackage_name = &quot;pillow&quot;\n\
+  python_versions_by_package_version = get_python_versions_for_package(package_name)\n\
+  \nprint(&quot;Поддерживаемые версии Python для каждой версии пакета:&quot;)\npprint(python_versions_by_package_version)"
