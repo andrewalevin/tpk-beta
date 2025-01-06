@@ -6,15 +6,10 @@
 
 ---
 
- 
-![2505-thumbnail.jpg](2505-thumbnail.jpg) 
-
-
 ### Post 2505
 
-2024-12-30 - 12:12:44
-
-
+ 
+![2505-thumbnail.jpg](2505-thumbnail.jpg) 
 
 
 
@@ -22,9 +17,10 @@
 
 
 
+- 🗂 file: [2505-audio.m4a](2505-audio.m4a) 
 
-🗂 File: [2505-audio.m4a](2505-audio.m4a) 
 
+- date: 2024-12-30 - 12:12:44
 
 
 
@@ -32,12 +28,7 @@
 
 ---
 
-
-
 ### Post 2504
-
-2024-12-30 - 12:10:29
-
 
 
 
@@ -47,6 +38,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-30 - 12:10:29
 
 
 
@@ -54,12 +46,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2503
-
-2024-12-30 - 12:10:29
-
 
 
 
@@ -69,28 +56,27 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-30 - 12:10:29
 
 
 
 
 
 ---
+
+### Post 2502
 
  
 ![2502-thumbnail.jpg](2502-thumbnail.jpg) 
 
 
-### Post 2502
-
-2024-12-25 - 02:55:15
 
 
 
+- 🗂 file: [2502-document.pdf](2502-document.pdf) 
 
 
-
-🗂 File: [2502-document.pdf](2502-document.pdf) 
-
+- date: 2024-12-25 - 02:55:15
 
 
 
@@ -98,12 +84,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2501
-
-2024-12-25 - 01:02:06
-
 
 
 
@@ -113,116 +94,107 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-25 - 01:02:06
 
 
 
 
 
 ---
+
+### Post 2500
 
  
 ![2500-thumbnail.jpg](2500-thumbnail.jpg) 
 
 
-### Post 2500
-
-2024-12-25 - 00:21:58
 
 
 
+- 🗂 file: [2500-document.pdf](2500-document.pdf) 
 
 
-
-🗂 File: [2500-document.pdf](2500-document.pdf) 
-
+- date: 2024-12-25 - 00:21:58
 
 
 
 
 
 ---
+
+### Post 2499
 
  
 ![2499-thumbnail.jpg](2499-thumbnail.jpg) 
 
 
-### Post 2499
-
-2024-12-25 - 00:21:58
 
 
 
+- 🗂 file: [2499-document.pdf](2499-document.pdf) 
 
 
-
-🗂 File: [2499-document.pdf](2499-document.pdf) 
-
+- date: 2024-12-25 - 00:21:58
 
 
 
 
 
 ---
+
+### Post 2498
 
  
 ![2498-thumbnail.jpg](2498-thumbnail.jpg) 
 
 
-### Post 2498
-
-2024-12-25 - 00:21:58
 
 
 
+- 🗂 file: [2498-document.pdf](2498-document.pdf) 
 
 
-
-🗂 File: [2498-document.pdf](2498-document.pdf) 
-
+- date: 2024-12-25 - 00:21:58
 
 
 
 
 
 ---
+
+### Post 2497
 
  
 ![2497-thumbnail.jpg](2497-thumbnail.jpg) 
 
 
-### Post 2497
-
-2024-12-25 - 00:21:58
 
 
 
+- 🗂 file: [2497-document.pdf](2497-document.pdf) 
 
 
-
-🗂 File: [2497-document.pdf](2497-document.pdf) 
-
+- date: 2024-12-25 - 00:21:58
 
 
 
 
 
 ---
+
+### Post 2496
 
  
 ![2496-thumbnail.jpg](2496-thumbnail.jpg) 
 
 
-### Post 2496
-
-2024-12-25 - 00:21:58
 
 
 
+- 🗂 file: [2496-document.pdf](2496-document.pdf) 
 
 
-
-🗂 File: [2496-document.pdf](2496-document.pdf) 
-
+- date: 2024-12-25 - 00:21:58
 
 
 
@@ -230,12 +202,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2495
-
-2024-12-25 - 00:15:29
-
 
 
 
@@ -245,6 +212,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-25 - 00:15:29
 
 
 
@@ -252,15 +220,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2494-thumbnail.jpg](2494-thumbnail.jpg) 
-
-
 ### Post 2494
 
-2024-12-19 - 01:11:19
-
-
+ 
+![2494-thumbnail.jpg](2494-thumbnail.jpg) 
 
 
 
@@ -268,9 +231,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2494-audio.m4a](2494-audio.m4a) 
 
-🗂 File: [2494-audio.m4a](2494-audio.m4a) 
 
+- date: 2024-12-19 - 01:11:19
 
 
 
@@ -278,15 +242,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2493-thumbnail.jpg](2493-thumbnail.jpg) 
-
-
 ### Post 2493
 
-2024-12-19 - 01:10:39
-
-
+ 
+![2493-thumbnail.jpg](2493-thumbnail.jpg) 
 
 
 
@@ -294,9 +253,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2493-audio.m4a](2493-audio.m4a) 
 
-🗂 File: [2493-audio.m4a](2493-audio.m4a) 
 
+- date: 2024-12-19 - 01:10:39
 
 
 
@@ -304,15 +264,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2492-thumbnail.jpg](2492-thumbnail.jpg) 
-
-
 ### Post 2492
 
-2024-12-19 - 01:09:28
-
-
+ 
+![2492-thumbnail.jpg](2492-thumbnail.jpg) 
 
 
 
@@ -320,9 +275,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2492-audio.m4a](2492-audio.m4a) 
 
-🗂 File: [2492-audio.m4a](2492-audio.m4a) 
 
+- date: 2024-12-19 - 01:09:28
 
 
 
@@ -330,15 +286,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2491-thumbnail.jpg](2491-thumbnail.jpg) 
-
-
 ### Post 2491
 
-2024-12-19 - 01:09:07
-
-
+ 
+![2491-thumbnail.jpg](2491-thumbnail.jpg) 
 
 
 
@@ -346,9 +297,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2491-audio.m4a](2491-audio.m4a) 
 
-🗂 File: [2491-audio.m4a](2491-audio.m4a) 
 
+- date: 2024-12-19 - 01:09:07
 
 
 
@@ -356,15 +308,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2490-thumbnail.jpg](2490-thumbnail.jpg) 
-
-
 ### Post 2490
 
-2024-12-19 - 01:08:41
-
-
+ 
+![2490-thumbnail.jpg](2490-thumbnail.jpg) 
 
 
 
@@ -372,9 +319,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2490-audio.m4a](2490-audio.m4a) 
 
-🗂 File: [2490-audio.m4a](2490-audio.m4a) 
 
+- date: 2024-12-19 - 01:08:41
 
 
 
@@ -382,15 +330,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2489-thumbnail.jpg](2489-thumbnail.jpg) 
-
-
 ### Post 2489
 
-2024-12-19 - 01:08:18
-
-
+ 
+![2489-thumbnail.jpg](2489-thumbnail.jpg) 
 
 
 
@@ -398,9 +341,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2489-audio.m4a](2489-audio.m4a) 
 
-🗂 File: [2489-audio.m4a](2489-audio.m4a) 
 
+- date: 2024-12-19 - 01:08:18
 
 
 
@@ -408,15 +352,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2488-thumbnail.jpg](2488-thumbnail.jpg) 
-
-
 ### Post 2488
 
-2024-12-19 - 01:07:59
-
-
+ 
+![2488-thumbnail.jpg](2488-thumbnail.jpg) 
 
 
 
@@ -424,9 +363,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2488-audio.m4a](2488-audio.m4a) 
 
-🗂 File: [2488-audio.m4a](2488-audio.m4a) 
 
+- date: 2024-12-19 - 01:07:59
 
 
 
@@ -434,15 +374,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2487-thumbnail.jpg](2487-thumbnail.jpg) 
-
-
 ### Post 2487
 
-2024-12-19 - 01:07:39
-
-
+ 
+![2487-thumbnail.jpg](2487-thumbnail.jpg) 
 
 
 
@@ -450,9 +385,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2487-audio.m4a](2487-audio.m4a) 
 
-🗂 File: [2487-audio.m4a](2487-audio.m4a) 
 
+- date: 2024-12-19 - 01:07:39
 
 
 
@@ -460,15 +396,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2486-thumbnail.jpg](2486-thumbnail.jpg) 
-
-
 ### Post 2486
 
-2024-12-19 - 01:07:20
-
-
+ 
+![2486-thumbnail.jpg](2486-thumbnail.jpg) 
 
 
 
@@ -476,9 +407,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2486-audio.m4a](2486-audio.m4a) 
 
-🗂 File: [2486-audio.m4a](2486-audio.m4a) 
 
+- date: 2024-12-19 - 01:07:20
 
 
 
@@ -486,15 +418,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2485-thumbnail.jpg](2485-thumbnail.jpg) 
-
-
 ### Post 2485
 
-2024-12-19 - 01:06:59
-
-
+ 
+![2485-thumbnail.jpg](2485-thumbnail.jpg) 
 
 
 
@@ -502,9 +429,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2485-audio.m4a](2485-audio.m4a) 
 
-🗂 File: [2485-audio.m4a](2485-audio.m4a) 
 
+- date: 2024-12-19 - 01:06:59
 
 
 
@@ -512,15 +440,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2484-thumbnail.jpg](2484-thumbnail.jpg) 
-
-
 ### Post 2484
 
-2024-12-19 - 01:06:38
-
-
+ 
+![2484-thumbnail.jpg](2484-thumbnail.jpg) 
 
 
 
@@ -528,9 +451,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2484-audio.m4a](2484-audio.m4a) 
 
-🗂 File: [2484-audio.m4a](2484-audio.m4a) 
 
+- date: 2024-12-19 - 01:06:38
 
 
 
@@ -538,15 +462,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2483-thumbnail.jpg](2483-thumbnail.jpg) 
-
-
 ### Post 2483
 
-2024-12-19 - 01:06:19
-
-
+ 
+![2483-thumbnail.jpg](2483-thumbnail.jpg) 
 
 
 
@@ -554,9 +473,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2483-audio.m4a](2483-audio.m4a) 
 
-🗂 File: [2483-audio.m4a](2483-audio.m4a) 
 
+- date: 2024-12-19 - 01:06:19
 
 
 
@@ -564,15 +484,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
- 
-![2482-thumbnail.jpg](2482-thumbnail.jpg) 
-
-
 ### Post 2482
 
-2024-12-19 - 01:05:56
-
-
+ 
+![2482-thumbnail.jpg](2482-thumbnail.jpg) 
 
 
 
@@ -580,9 +495,10 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- 🗂 file: [2482-audio.m4a](2482-audio.m4a) 
 
-🗂 File: [2482-audio.m4a](2482-audio.m4a) 
 
+- date: 2024-12-19 - 01:05:56
 
 
 
@@ -590,12 +506,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2481
-
-2024-12-19 - 01:05:21
-
 
 
 
@@ -605,6 +516,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-19 - 01:05:21
 
 
 
@@ -612,12 +524,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2480
-
-2024-12-19 - 01:05:20
-
 
 
 
@@ -627,6 +534,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-19 - 01:05:20
 
 
 
@@ -634,12 +542,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2479
-
-2024-12-19 - 01:00:45
-
 
 
 
@@ -649,6 +552,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-19 - 01:00:45
 
 
 
@@ -656,12 +560,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2478
-
-2024-12-19 - 01:00:45
-
 
 
 
@@ -671,6 +570,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-19 - 01:00:45
 
 
 
@@ -678,12 +578,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2477
-
-2024-12-19 - 00:44:34
-
 
 
 
@@ -693,6 +588,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-19 - 00:44:34
 
 
 
@@ -700,12 +596,7 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
-
-
 ### Post 2476
-
-2024-12-19 - 00:44:29
-
 
 
 
@@ -715,123 +606,107 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-19 - 00:44:29
 
 
 
 
 
 ---
-
-
 
 ### Post 2475
 
-2024-12-16 - 23:48:16
 
-
-
-
-
-2024-12-16 - 23:48:01
 
 
 Тысячеликий герой
 
 
 
-🗂 File: [2475-document.epub](2475-document.epub) 
+- 🗂 file: [2475-document.epub](2475-document.epub) 
 
 
+- date: 2024-12-16 - 23:48:16
+
+
+- forward title: 
+- forward date: 2024-12-16 - 23:48:01
 
 
 
 
 ---
-
-
 
 ### Post 2474
 
-2024-12-16 - 23:48:16
 
-
-
-
-
-2024-12-16 - 23:47:58
 
 
 Тысячеликий герой
 
 
 
-🗂 File: [2474-document.pdf](2474-document.pdf) 
+- 🗂 file: [2474-document.pdf](2474-document.pdf) 
 
 
+- date: 2024-12-16 - 23:48:16
+
+
+- forward title: 
+- forward date: 2024-12-16 - 23:47:58
 
 
 
 
 ---
-
-
 
 ### Post 2473
 
-2024-12-16 - 23:48:16
 
-
-
-
-
-2024-12-16 - 23:44:04
 
 
 Путешествие писателя. Мифологические структуры в литературе и кино
 
 
 
-🗂 File: [2473-document.pdf](2473-document.pdf) 
+- 🗂 file: [2473-document.pdf](2473-document.pdf) 
 
 
+- date: 2024-12-16 - 23:48:16
+
+
+- forward title: 
+- forward date: 2024-12-16 - 23:44:04
 
 
 
 
 ---
-
-
 
 ### Post 2472
 
-2024-12-16 - 23:48:16
 
-
-
-
-
-2024-12-16 - 23:43:53
 
 
 Путешествие писателя. Мифологические структуры в литературе и кино
 
 
 
-🗂 File: [2472-document.epub](2472-document.epub) 
+- 🗂 file: [2472-document.epub](2472-document.epub) 
 
 
+- date: 2024-12-16 - 23:48:16
+
+
+- forward title: 
+- forward date: 2024-12-16 - 23:43:53
 
 
 
 
 ---
 
-
-
 ### Post 2471
-
-2024-12-16 - 19:27:33
-
 
 
 
@@ -841,72 +716,67 @@ Choose one of these options. <br />Exit in seconds: 8
 
 
 
+- date: 2024-12-16 - 19:27:33
 
 
 
 
 
 ---
+
+### Post 2470
 
  
 ![2470-photo.jpg](2470-photo.jpg) 
 
 
-### Post 2470
-
-2024-12-13 - 00:17:02
 
 
 
+- 🗂 file: [2470-photo.jpg](2470-photo.jpg) 
 
 
-
-🗂 File: [2470-photo.jpg](2470-photo.jpg) 
-
+- date: 2024-12-13 - 00:17:02
 
 
 
 
 
 ---
+
+### Post 2469
 
  
 ![2469-photo.jpg](2469-photo.jpg) 
 
 
-### Post 2469
-
-2024-12-13 - 00:16:58
 
 
 
+- 🗂 file: [2469-photo.jpg](2469-photo.jpg) 
 
 
-
-🗂 File: [2469-photo.jpg](2469-photo.jpg) 
-
+- date: 2024-12-13 - 00:16:58
 
 
 
 
 
 ---
+
+### Post 2468
 
  
 ![2468-photo.jpg](2468-photo.jpg) 
 
 
-### Post 2468
-
-2024-12-13 - 00:16:44
 
 
 
+- 🗂 file: [2468-photo.jpg](2468-photo.jpg) 
 
 
-
-🗂 File: [2468-photo.jpg](2468-photo.jpg) 
-
+- date: 2024-12-13 - 00:16:44
 
 
 
@@ -914,40 +784,32 @@ Choose one of these options. <br />Exit in seconds: 8
 
 ---
 
+### Post 2467
+
  
 ![2467-thumbnail.jpg](2467-thumbnail.jpg) 
 
-
-### Post 2467
-
-2024-12-13 - 00:16:06
-
-
-
-
-
-2024-12-13 - 00:12:27
 
 
 El Doctor Zhivago
 
 
 
-🗂 File: [2467-document.pdf](2467-document.pdf) 
+- 🗂 file: [2467-document.pdf](2467-document.pdf) 
 
 
+- date: 2024-12-13 - 00:16:06
+
+
+- forward title: 
+- forward date: 2024-12-13 - 00:12:27
 
 
 
 
 ---
 
-
-
 ### Post 2466
-
-2024-12-10 - 01:55:47
-
 
 
 
@@ -957,6 +819,7 @@ El Doctor Zhivago
 
 
 
+- date: 2024-12-10 - 01:55:47
 
 
 
@@ -964,12 +827,7 @@ El Doctor Zhivago
 
 ---
 
-
-
 ### Post 2465
-
-2024-12-10 - 01:47:05
-
 
 
 
@@ -979,6 +837,7 @@ rr
 
 
 
+- date: 2024-12-10 - 01:47:05
 
 
 
