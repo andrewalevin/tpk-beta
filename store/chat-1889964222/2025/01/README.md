@@ -14,15 +14,16 @@
 
 
 
-
-- 🗂 file: [684-photo.jpg](684-photo.jpg) 
-
-
-- date: 2025-01-06 - 01:36:14
+2025-01-06 - 01:36:14
 
 
-- forward title: 🪲 Books. Stack - Uuuuuuuuuu-u
-- forward date: 2025-01-06 - 01:36:08
+🗂 file: [684-photo.jpg](684-photo.jpg) 
+
+
+ 
+forward: 🪲 Books. Stack - Uuuuuuuuuu-u 
+
+forward date: 2025-01-06 - 01:36:08
 
 
 
@@ -37,13 +38,14 @@
 <a href="https://knigavuhe.org/book/lekcii-po-ehtike/">https://knigavuhe.org/book/lekcii-po-ehtike/</a>
 
 
+2025-01-06 - 01:36:14
 
 
-- date: 2025-01-06 - 01:36:14
 
+ 
+forward: 🪲 Books. Stack - Uuuuuuuuuu-u 
 
-- forward title: 🪲 Books. Stack - Uuuuuuuuuu-u
-- forward date: 2025-01-06 - 01:36:00
+forward date: 2025-01-06 - 01:36:00
 
 
 
@@ -58,9 +60,9 @@
 Text🤗🤗🤗
 
 
+2025-01-05 - 19:30:09
 
 
-- date: 2025-01-05 - 19:30:09
 
 
 
@@ -76,9 +78,9 @@ Text🤗🤗🤗
 Choose one of these options. <br />Exit in seconds: 8
 
 
+2025-01-05 - 01:43:31
 
 
-- date: 2025-01-05 - 01:43:31
 
 
 
@@ -94,9 +96,9 @@ Choose one of these options. <br />Exit in seconds: 8
 <a href="https://www.youtube.com/watch?v=cNXTGOy6FQQ">https://www.youtube.com/watch?v=cNXTGOy6FQQ</a>
 
 
+2025-01-05 - 01:43:31
 
 
-- date: 2025-01-05 - 01:43:31
 
 
 
@@ -112,9 +114,9 @@ Choose one of these options. <br />Exit in seconds: 8
 Choose one of these options. <br />Exit in seconds: 8
 
 
+2025-01-01 - 00:53:17
 
 
-- date: 2025-01-01 - 00:53:17
 
 
 
@@ -130,9 +132,9 @@ Choose one of these options. <br />Exit in seconds: 8
 <a href="https://www.youtube.com/watch?v=HXxg0pemhlI">https://www.youtube.com/watch?v=HXxg0pemhlI</a>
 
 
+2025-01-01 - 00:53:17
 
 
-- date: 2025-01-01 - 00:53:17
 
 
 

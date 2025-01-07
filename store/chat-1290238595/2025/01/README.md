@@ -12,11 +12,11 @@
 
 
 
+2025-01-07 - 00:16:13
 
-- 🗂 file: [2535-document.epub](2535-document.epub) 
 
+🗂 file: [2535-document.epub](2535-document.epub) 
 
-- date: 2025-01-07 - 00:16:13
 
 
 
@@ -30,11 +30,11 @@
 
 
 
+2025-01-07 - 00:16:13
 
-- 🗂 file: [2534-document.epub](2534-document.epub) 
 
+🗂 file: [2534-document.epub](2534-document.epub) 
 
-- date: 2025-01-07 - 00:16:13
 
 
 
@@ -48,11 +48,11 @@
 
 
 
+2025-01-07 - 00:16:13
 
-- 🗂 file: [2533-document.epub](2533-document.epub) 
 
+🗂 file: [2533-document.epub](2533-document.epub) 
 
-- date: 2025-01-07 - 00:16:13
 
 
 
@@ -66,11 +66,11 @@
 
 
 
+2025-01-07 - 00:16:13
 
-- 🗂 file: [2532-document.epub](2532-document.epub) 
 
+🗂 file: [2532-document.epub](2532-document.epub) 
 
-- date: 2025-01-07 - 00:16:13
 
 
 
@@ -84,11 +84,11 @@
 
 
 
+2025-01-07 - 00:16:13
 
-- 🗂 file: [2531-document.epub](2531-document.epub) 
 
+🗂 file: [2531-document.epub](2531-document.epub) 
 
-- date: 2025-01-07 - 00:16:13
 
 
 
@@ -102,11 +102,11 @@
 
 
 
+2025-01-07 - 00:16:13
 
-- 🗂 file: [2530-document.epub](2530-document.epub) 
 
+🗂 file: [2530-document.epub](2530-document.epub) 
 
-- date: 2025-01-07 - 00:16:13
 
 
 
@@ -120,11 +120,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2529-document.epub](2529-document.epub) 
 
+🗂 file: [2529-document.epub](2529-document.epub) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -140,11 +140,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2528-document.pdf](2528-document.pdf) 
 
+🗂 file: [2528-document.pdf](2528-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -160,11 +160,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2527-document.pdf](2527-document.pdf) 
 
+🗂 file: [2527-document.pdf](2527-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -180,11 +180,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2526-document.pdf](2526-document.pdf) 
 
+🗂 file: [2526-document.pdf](2526-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -200,11 +200,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2525-document.pdf](2525-document.pdf) 
 
+🗂 file: [2525-document.pdf](2525-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -220,11 +220,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2524-document.pdf](2524-document.pdf) 
 
+🗂 file: [2524-document.pdf](2524-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -240,11 +240,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2523-document.pdf](2523-document.pdf) 
 
+🗂 file: [2523-document.pdf](2523-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -258,11 +258,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2522-document.epub](2522-document.epub) 
 
+🗂 file: [2522-document.epub](2522-document.epub) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -278,11 +278,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2521-document.pdf](2521-document.pdf) 
 
+🗂 file: [2521-document.pdf](2521-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -298,11 +298,11 @@
 
 
 
+2025-01-06 - 01:52:58
 
-- 🗂 file: [2520-document.pdf](2520-document.pdf) 
 
+🗂 file: [2520-document.pdf](2520-document.pdf) 
 
-- date: 2025-01-06 - 01:52:58
 
 
 
@@ -316,11 +316,11 @@
 
 
 
+2025-01-06 - 01:51:21
 
-- 🗂 file: [2519-document.fb2](2519-document.fb2) 
 
+🗂 file: [2519-document.fb2](2519-document.fb2) 
 
-- date: 2025-01-06 - 01:51:21
 
 
 
@@ -334,11 +334,11 @@
 
 
 
+2025-01-06 - 01:51:21
 
-- 🗂 file: [2518-document.epub](2518-document.epub) 
 
+🗂 file: [2518-document.epub](2518-document.epub) 
 
-- date: 2025-01-06 - 01:51:21
 
 
 
@@ -352,11 +352,11 @@
 
 
 
+2025-01-06 - 01:51:21
 
-- 🗂 file: [2517-document.djvu](2517-document.djvu) 
 
+🗂 file: [2517-document.djvu](2517-document.djvu) 
 
-- date: 2025-01-06 - 01:51:21
 
 
 
@@ -372,11 +372,11 @@
 
 
 
+2025-01-06 - 01:51:21
 
-- 🗂 file: [2516-document.pdf](2516-document.pdf) 
 
+🗂 file: [2516-document.pdf](2516-document.pdf) 
 
-- date: 2025-01-06 - 01:51:21
 
 
 
@@ -392,11 +392,11 @@
 
 
 
+2025-01-06 - 01:36:08
 
-- 🗂 file: [2515-photo.jpg](2515-photo.jpg) 
 
+🗂 file: [2515-photo.jpg](2515-photo.jpg) 
 
-- date: 2025-01-06 - 01:36:08
 
 
 
@@ -412,9 +412,9 @@
 <a href="https://knigavuhe.org/book/lekcii-po-ehtike/">https://knigavuhe.org/book/lekcii-po-ehtike/</a>
 
 
+2025-01-06 - 01:36:00
 
 
-- date: 2025-01-06 - 01:36:00
 
 
 
@@ -430,9 +430,9 @@
 Text🤗🤗🤗
 
 
+2025-01-05 - 19:29:57
 
 
-- date: 2025-01-05 - 19:29:57
 
 
 
@@ -448,9 +448,9 @@ Text🤗🤗🤗
 <a href="http://opac.nekrasovka.ru/look?iddb=988&amp;ID=D%5C%5CBIBL%5C%5CB0001763550">http://opac.nekrasovka.ru/look?iddb=988&amp;ID=D%5C%5CBIBL%5C%5CB0001763550</a>
 
 
+2025-01-05 - 17:46:58
 
 
-- date: 2025-01-05 - 17:46:58
 
 
 
@@ -466,9 +466,9 @@ Text🤗🤗🤗
 <a href="https://ru.m.wikipedia.org/wiki/%D0%91%D1%8B%D0%BB%D0%BE%D0%B5_%D0%B8_%D0%B4%D1%83%D0%BC%D1%8B">https://ru.m.wikipedia.org/wiki/%D0%91%D1%8B%D0%BB%D0%BE%D0%B5_%D0%B8_%D0%B4%D1%83%D0%BC%D1%8B</a>
 
 
+2025-01-04 - 19:04:58
 
 
-- date: 2025-01-04 - 19:04:58
 
 
 
@@ -484,11 +484,11 @@ Text🤗🤗🤗
 
 
 
+2025-01-02 - 23:57:33
 
-- 🗂 file: [2510-document.pdf](2510-document.pdf) 
 
+🗂 file: [2510-document.pdf](2510-document.pdf) 
 
-- date: 2025-01-02 - 23:57:33
 
 
 
@@ -504,11 +504,11 @@ Text🤗🤗🤗
 
 
 
+2025-01-02 - 23:57:33
 
-- 🗂 file: [2509-document.pdf](2509-document.pdf) 
 
+🗂 file: [2509-document.pdf](2509-document.pdf) 
 
-- date: 2025-01-02 - 23:57:33
 
 
 
@@ -524,11 +524,11 @@ Text🤗🤗🤗
 
 
 
+2025-01-01 - 20:47:18
 
-- 🗂 file: [2508-photo.jpg](2508-photo.jpg) 
 
+🗂 file: [2508-photo.jpg](2508-photo.jpg) 
 
-- date: 2025-01-01 - 20:47:18
 
 
 
@@ -544,9 +544,9 @@ Text🤗🤗🤗
 <a href="https://metrics.aspose.ai/">https://metrics.aspose.ai/</a>
 
 
+2025-01-01 - 20:47:10
 
 
-- date: 2025-01-01 - 20:47:10
 
 
 
@@ -560,11 +560,11 @@ Text🤗🤗🤗
 
 
 
+2025-01-01 - 20:41:38
 
-- 🗂 file: [2506-document.epub](2506-document.epub) 
 
+🗂 file: [2506-document.epub](2506-document.epub) 
 
-- date: 2025-01-01 - 20:41:38
 
 
 
