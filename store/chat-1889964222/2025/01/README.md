@@ -6,6 +6,42 @@
 
 ---
 
+### Post 686
+
+
+
+
+Choose one of these options. <br />Exit in seconds: 8
+
+
+2025-01-08 - 18:25:51
+
+
+
+
+
+
+
+---
+
+### Post 685
+
+
+
+
+<a href="https://youtu.be/oAHbLRjF0vo?si=FTE-V3zh1JxM0AV9">https://youtu.be/oAHbLRjF0vo?si=FTE-V3zh1JxM0AV9</a>
+
+
+2025-01-08 - 18:25:50
+
+
+
+
+
+
+
+---
+
 ### Post 684
 
  
