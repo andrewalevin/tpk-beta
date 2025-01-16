@@ -6,6 +6,24 @@
 
 ---
 
+### Post 2545
+
+
+
+
+A survey of the field of decision theory is provided by M. Peterson, An Introduction to Decision Theory. Cambridge University Press, 2009.
+
+
+2025-01-16 - 14:49:46
+
+
+
+
+
+
+
+---
+
 ### Post 2544
 
 
