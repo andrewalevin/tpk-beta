@@ -6,6 +6,60 @@
 
 ---
 
+### Post 10929
+
+
+
+
+Dont remember to take warm boots 🥾 and clothing 🧥, and 🧤.<br /><br />Take bagpake 🎒, we’ll go   Many places, we ll havnot place to leave our things, carry together all time.<br /><br />📍Metting time:<br /><br />05:45 <br /><br />Metro Lenin’s Library (Biblioteka lenina) red line<br /><br />Small addition. Due to Moscow metro opens at 5:30, but the first metro train goes centre stations a bit later.<br /><br />I’ve checked our first metro<br />train 🚇 by red line will start at from<br /> 05:54. It is OK.<br /><br />And additional. <br />My first metro train by grey line will be approach to your neighbouring station at 05:51. I will have 3 minutes to run from one station to your station on red line. And from another side of long platform.<br /><br />Let’s have a next algorithm.<br /><br />If you ll be tomorrow on the platform before first metro train and no see me or Kirill - you ll go inside this first metro train. <br />Perhaps, l ll jump this train too at the end of long train and later join your by walking inside train.
+
+
+2025-02-07 - 15:22:45
+
+
+
+
+
+
+
+---
+
+### Post 10928
+
+
+
+
+Dont remember to take warm boots 🥾 and clothing 🧥, and 🧤.<br /><br />Take bagpake 🎒, we’ll go   Many places, we ll havnot place to leave our things, carry together all time.
+
+
+2025-02-07 - 15:22:25
+
+
+
+
+
+
+
+---
+
+### Post 10927
+
+
+
+
+Dont remember to take warm boots 🥾 and clothing 🧥, and 🧤.<br /><br />Take bagpake 🎒, we’ll go   Many places, we ll havnot place to leave our things, carry together all time.<br /><br />📍Metting time:<br /><br />05:45 <br /><br />Metro Lenin’s Library (Biblioteka lenina) red line<br /><br />Small addition. Due to Moscow metro opens at 5:30, but the first metro train could be later. <br /><br />I’ve checked our metro 🚇 passage, the first train will be at 05:54. It is OK.<br /><br />And additional. My first metro train by grey line will be approach
+
+
+2025-02-07 - 15:11:10
+
+
+
+
+
+
+
+---
+
 ### Post 10926
 
 
