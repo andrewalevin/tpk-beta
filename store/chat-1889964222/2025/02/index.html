@@ -117,6 +117,31 @@
                 
 
                 <div class="card-body">
+                    <h4>Post 696</h4>
+                    <p class="post-date text-black-50 ">
+                        2025-02-19 - 00:29:29</p>
+
+
+                    
+
+                        
+                        <p class="post-text ">
+                            async def construct_text_summary(summary: dict):<br />    all_rows = []<br />    for chapter in summary.get(&#x27;chapters&#x27;):<br />        chapter_time = chapter.get(&#x27;startTime&#x27;)<br />        chapter_title = chapter.get(&#x27;content&#x27;)<br />        title_html = f&#x27;&lt;b&gt;{chapter_time} - {chapter_title}&lt;/b&gt;&#x27;<br />        theses = [&#x27; • &#x27; + thesis.get(&#x27;content&#x27;) for thesis in chapter.get(&#x27;theses&#x27;)]<br />        rows = [title_html] + theses + [&#x27;&#x27;]<br />        all_rows += rows<br /><br />    return &#x27;\n&#x27;.join(all_rows)
+                        </p>
+                        
+
+                        
+
+
+                    
+
+                </div>
+            </div>
+        
+            <div class="card rounded-3 shadow-sm mb-4">
+                
+
+                <div class="card-body">
                     <h4>Post 695</h4>
                     <p class="post-date text-black-50 ">
                         2025-02-17 - 03:28:21</p>

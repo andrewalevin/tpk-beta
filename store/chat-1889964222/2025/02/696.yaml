@@ -1,0 +1,9 @@
+date: 2025-02-19 00:29:29+00:00
+type: text
+text: "async def construct_text_summary(summary: dict):\n    all_rows = []\n    for\
+  \ chapter in summary.get(&#x27;chapters&#x27;):\n        chapter_time = chapter.get(&#x27;startTime&#x27;)\n\
+  \        chapter_title = chapter.get(&#x27;content&#x27;)\n        title_html =\
+  \ f&#x27;&lt;b&gt;{chapter_time} - {chapter_title}&lt;/b&gt;&#x27;\n        theses\
+  \ = [&#x27; • &#x27; + thesis.get(&#x27;content&#x27;) for thesis in chapter.get(&#x27;theses&#x27;)]\n\
+  \        rows = [title_html] + theses + [&#x27;&#x27;]\n        all_rows += rows\n\
+  \n    return &#x27;\\n&#x27;.join(all_rows)"

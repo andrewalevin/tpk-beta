@@ -6,6 +6,24 @@
 
 ---
 
+### Post 696
+
+
+
+
+async def construct_text_summary(summary: dict):<br />    all_rows = []<br />    for chapter in summary.get(&#x27;chapters&#x27;):<br />        chapter_time = chapter.get(&#x27;startTime&#x27;)<br />        chapter_title = chapter.get(&#x27;content&#x27;)<br />        title_html = f&#x27;&lt;b&gt;{chapter_time} - {chapter_title}&lt;/b&gt;&#x27;<br />        theses = [&#x27; • &#x27; + thesis.get(&#x27;content&#x27;) for thesis in chapter.get(&#x27;theses&#x27;)]<br />        rows = [title_html] + theses + [&#x27;&#x27;]<br />        all_rows += rows<br /><br />    return &#x27;\n&#x27;.join(all_rows)
+
+
+2025-02-19 - 00:29:29
+
+
+
+
+
+
+
+---
+
 ### Post 695
 
 
