@@ -6,6 +6,24 @@
 
 ---
 
+### Post 10961
+
+
+
+
+🌎 Translation<br /><br /> The Potential for AI in Science and Mathematics - Terence Tao<br /><a href="http://youtu.be/_sTDSO74D8Q">youtu.be/_sTDSO74D8Q</a> [53:06]<br />Oxford Mathematics
+
+
+2025-02-19 - 22:56:48
+
+
+
+
+
+
+
+---
+
 ### Post 10960
 
 
