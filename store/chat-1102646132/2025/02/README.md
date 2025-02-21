@@ -6,6 +6,24 @@
 
 ---
 
+### Post 10964
+
+
+
+
+Well add info that it works withput qutes $SCRIPT_NAME Fix bug and build  # Commit with timestamp + custom message + Works without &quot; &quot; and traslate into englis and remove 1 2 3 emoji make more formal . Chapter 🛠 Как публиковать новую версию make As notes for developer not for all
+
+
+2025-02-21 - 19:55:06
+
+
+
+
+
+
+
+---
+
 ### Post 10963
 
 
