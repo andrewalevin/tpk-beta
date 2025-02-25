@@ -1,0 +1,30 @@
+date: 2025-02-25 17:29:36+00:00
+type: text
+text: "document.addEventListener(&quot;DOMContentLoaded&quot;, function () {\n   \
+  \ const form = document.querySelector(&quot;.signupform&quot;);\n    if (!form)\
+  \ return;\n\n    form.querySelector(&quot;#fitem_id_username .col-form-label&quot;).innerHTML\
+  \ = &quot;E-mail&quot;;\n\n    const usernameInput = form.querySelector(&quot;#id_username&quot;);\n\
+  \    const emailInput = form.querySelector(&quot;#id_email&quot;);\n    const email2Input\
+  \ = form.querySelector(&quot;#id_email2&quot;);\n\n    if (usernameInput &amp;&amp;\
+  \ emailInput &amp;&amp; email2Input) {\n        usernameInput.addEventListener(&quot;input&quot;,\
+  \ function () {\n            emailInput.value = this.value;\n            email2Input.value\
+  \ = this.value;\n        });\n    }\n\n    // Скрытие ненужных элементов\n    [&quot;#fitem_id_email&quot;,\
+  \ &quot;#fitem_id_email2&quot;, &quot;#fitem_id_country&quot;, &quot;#fitem_id_city&quot;]\n\
+  \        .forEach(selector =&gt; {\n            const element = form.querySelector(selector);\n\
+  \            if (element) element.style.display = &quot;none&quot;;\n        });\n\
+  \n    // Обновление лейблов и плейсхолдеров\n    const labels = {\n        &quot;#id_firstname_label&quot;:\
+  \ &quot;Имя и Отчество (Name and Patronymic)&lt;br&gt;[Дмитрий Александрович]&quot;,\n\
+  \        &quot;#id_lastname_label&quot;: &quot;Фамилия (Last name)&lt;br&gt;[Петров]&quot;\n\
+  \    };\n    for (const [selector, text] of Object.entries(labels)) {\n        const\
+  \ label = form.querySelector(selector);\n        if (label) label.innerHTML = text;\n\
+  \    }\n\n    const placeholders = {\n        &quot;#id_firstname&quot;: &quot;Имя\
+  \ Отчество&quot;,\n        &quot;#id_lastname&quot;: &quot;Фамилия&quot;\n    };\n\
+  \    for (const [selector, text] of Object.entries(placeholders)) {\n        const\
+  \ input = form.querySelector(selector);\n        if (input) input.placeholder =\
+  \ text;\n    }\n\n    // Упрощение стилей для .fdate_selector\n    const dateSelector\
+  \ = form.querySelector(&quot;.fdate_selector&quot;);\n    if (dateSelector) {\n\
+  \        dateSelector.style.flexWrap = &quot;wrap&quot;;\n        <a href=\"dateSelector.style.gap\"\
+  >dateSelector.style.gap</a> = &quot;1rem&quot;;\n    }\n\n    // Hide Element on\
+  \ lostforgot page\n    const forgotFormUsername = document.querySelector(&quot;#id_searchbyusername&quot;);\n\
+  \    if (forgotFormUsername) forgotFormUsername.style.display = &quot;none&quot;;\n\
+  \n});"

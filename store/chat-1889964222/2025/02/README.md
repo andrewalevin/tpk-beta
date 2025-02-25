@@ -6,6 +6,24 @@
 
 ---
 
+### Post 699
+
+
+
+
+document.addEventListener(&quot;DOMContentLoaded&quot;, function () {<br />    const form = document.querySelector(&quot;.signupform&quot;);<br />    if (!form) return;<br /><br />    form.querySelector(&quot;#fitem_id_username .col-form-label&quot;).innerHTML = &quot;E-mail&quot;;<br /><br />    const usernameInput = form.querySelector(&quot;#id_username&quot;);<br />    const emailInput = form.querySelector(&quot;#id_email&quot;);<br />    const email2Input = form.querySelector(&quot;#id_email2&quot;);<br /><br />    if (usernameInput &amp;&amp; emailInput &amp;&amp; email2Input) {<br />        usernameInput.addEventListener(&quot;input&quot;, function () {<br />            emailInput.value = this.value;<br />            email2Input.value = this.value;<br />        });<br />    }<br /><br />    // Скрытие ненужных элементов<br />    [&quot;#fitem_id_email&quot;, &quot;#fitem_id_email2&quot;, &quot;#fitem_id_country&quot;, &quot;#fitem_id_city&quot;]<br />        .forEach(selector =&gt; {<br />            const element = form.querySelector(selector);<br />            if (element) element.style.display = &quot;none&quot;;<br />        });<br /><br />    // Обновление лейблов и плейсхолдеров<br />    const labels = {<br />        &quot;#id_firstname_label&quot;: &quot;Имя и Отчество (Name and Patronymic)&lt;br&gt;[Дмитрий Александрович]&quot;,<br />        &quot;#id_lastname_label&quot;: &quot;Фамилия (Last name)&lt;br&gt;[Петров]&quot;<br />    };<br />    for (const [selector, text] of Object.entries(labels)) {<br />        const label = form.querySelector(selector);<br />        if (label) label.innerHTML = text;<br />    }<br /><br />    const placeholders = {<br />        &quot;#id_firstname&quot;: &quot;Имя Отчество&quot;,<br />        &quot;#id_lastname&quot;: &quot;Фамилия&quot;<br />    };<br />    for (const [selector, text] of Object.entries(placeholders)) {<br />        const input = form.querySelector(selector);<br />        if (input) input.placeholder = text;<br />    }<br /><br />    // Упрощение стилей для .fdate_selector<br />    const dateSelector = form.querySelector(&quot;.fdate_selector&quot;);<br />    if (dateSelector) {<br />        dateSelector.style.flexWrap = &quot;wrap&quot;;<br />        <a href="dateSelector.style.gap">dateSelector.style.gap</a> = &quot;1rem&quot;;<br />    }<br /><br />    // Hide Element on lostforgot page<br />    const forgotFormUsername = document.querySelector(&quot;#id_searchbyusername&quot;);<br />    if (forgotFormUsername) forgotFormUsername.style.display = &quot;none&quot;;<br /><br />});
+
+
+2025-02-25 - 17:29:36
+
+
+
+
+
+
+
+---
+
 ### Post 698
 
 
