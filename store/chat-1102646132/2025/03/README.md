@@ -6,6 +6,82 @@
 
 ---
 
+### Post 11114
+
+
+
+
+<b>Россияне массово оформляют водительские права за границей</b> — в Грузии, Армении и Таиланде их проще и дешевле получить, а затем легально обменять на российские. После изменений в законе с апреля потребуется только сдать теорию и принести медсправку, без практики и автошколы. На рынке уже предлагают готовые туры за 35 тысяч рублей с оформлением документов и поездкой.
+
+
+2025-03-05 - 19:15:11
+
+
+
+ 
+forward: Ateo Breaking 
+
+forward date: 2025-03-05 - 17:16:58
+
+
+
+
+---
+
+### Post 11113
+
+
+
+
+<a href="https://www.ozon.ru/product/isaak-ilich-levitan-1863339146/?at=QktJLLAGPcYy0EZOtJnV6oBhy0VV99t82W0A1I1QvlrA&amp;keywords=%D0%BB%D0%B5%D0%B2%D0%B8%D1%82%D0%B0%D0%BD#section-description--offset-140--offset-80">https://www.ozon.ru/product/isaak-ilich-levitan-1863339146/?at=QktJLLAGPcYy0EZOtJnV6oBhy0VV99t82W0A1I1QvlrA&amp;keywords=%D0%BB%D0%B5%D0%B2%D0%B8%D1%82%D0%B0%D0%BD#section-description--offset-140--offset-80</a>
+
+
+2025-03-05 - 19:11:58
+
+
+
+
+
+
+
+---
+
+### Post 11112
+
+
+
+
+<a href="https://www.ozon.ru/product/levitan-lewitan-albom-na-nemetskom-yazyke-avrora-1988g-1870753393/?at=DqtDZZ1WZcEP07qmC5N0VpPCV9JVkpcyOQwyWs3Orq9J&amp;keywords=Lewitan#section-description--offset-140--offset-80">https://www.ozon.ru/product/levitan-lewitan-albom-na-nemetskom-yazyke-avrora-1988g-1870753393/?at=DqtDZZ1WZcEP07qmC5N0VpPCV9JVkpcyOQwyWs3Orq9J&amp;keywords=Lewitan#section-description--offset-140--offset-80</a>
+
+
+2025-03-05 - 19:09:42
+
+
+
+
+
+
+
+---
+
+### Post 11111
+
+
+
+
+<a href="https://www.ozon.ru/product/isaak-ilich-levitan-1863339146/?at=QktJLLAGPcYy0EZOtJnV6oBhy0VV99t82W0A1I1QvlrA&amp;keywords=%D0%BB%D0%B5%D0%B2%D0%B8%D1%82%D0%B0%D0%BD">https://www.ozon.ru/product/isaak-ilich-levitan-1863339146/?at=QktJLLAGPcYy0EZOtJnV6oBhy0VV99t82W0A1I1QvlrA&amp;keywords=%D0%BB%D0%B5%D0%B2%D0%B8%D1%82%D0%B0%D0%BD</a>
+
+
+2025-03-05 - 19:00:33
+
+
+
+
+
+
+
+---
+
 ### Post 11110
 
  
