@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11116
+
+
+
+
+<a href="https://open-meteo.com/en/docs#latitude=55.750446&amp;longitude=37.617494&amp;current=&amp;minutely_15=&amp;hourly=precipitation_probability,precipitation,rain,weather_code&amp;daily=&amp;location_mode=csv_coordinates&amp;csv_coordinates=55.750446,37.617494&amp;timezone=Europe%2FMoscow&amp;forecast_days=1&amp;models=">https://open-meteo.com/en/docs#latitude=55.750446&amp;longitude=37.617494&amp;current=&amp;minutely_15=&amp;hourly=precipitation_probability,precipitation,rain,weather_code&amp;daily=&amp;location_mode=csv_coordinates&amp;csv_coordinates=55.750446,37.617494&amp;timezone=Europe%2FMoscow&amp;forecast_days=1&amp;models=</a>
+
+
+2025-03-05 - 23:48:08
+
+
+
+
+
+
+
+---
+
 ### Post 11115
 
 
