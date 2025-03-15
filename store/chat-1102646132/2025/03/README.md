@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11263
+
+
+
+
+<a href="https://andrewalevin.github.io/politicalcompass/">https://andrewalevin.github.io/politicalcompass/</a>
+
+
+2025-03-15 - 19:05:26
+
+
+
+
+
+
+
+---
+
 ### Post 11262
 
 
