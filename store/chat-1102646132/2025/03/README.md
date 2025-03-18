@@ -6,6 +6,60 @@
 
 ---
 
+### Post 11291
+
+
+
+
+version: &quot;3.8&quot;<br /><br />services:<br />  imapsync:<br />    image: gilleslamiral/imapsync<br />    entrypoint: [&quot;imapsync&quot;]<br />    command: [<br />      <br />      &quot;--user1&quot;, &quot;@internat.msu.ru&quot;,<br />      &quot;--user2&quot;, &quot;@internat.msu.ru&quot;,<br />      <br />      &quot;--password1&quot;, &quot;&quot;,<br />      &quot;--password2&quot;, &quot;&quot;,<br />      <br />      &quot;--host1&quot;, &quot;<a href="imap.mail.ru">imap.mail.ru</a>&quot;,<br />      &quot;--host2&quot;, &quot;<a href="post.internat.msu.ru">post.internat.msu.ru</a>&quot;<br />    ]<br />    restart: &quot;no&quot;
+
+
+2025-03-18 - 08:30:21
+
+
+
+
+
+
+
+---
+
+### Post 11290
+
+
+
+
+Y3F6y195f864^uvM
+
+
+2025-03-18 - 08:30:15
+
+
+
+
+
+
+
+---
+
+### Post 11289
+
+
+
+
+version: &quot;3.8&quot;<br /><br />services:<br />  imapsync:<br />    image: gilleslamiral/imapsync<br />    entrypoint: [&quot;imapsync&quot;]<br />    command: [<br />      <br />      &quot;--user1&quot;, &quot;@internat.msu.ru&quot;,<br />      &quot;--user2&quot;, &quot;@internat.msu.ru&quot;,<br />      <br />      &quot;--password1&quot;, &quot;&quot;,<br />      &quot;--password2&quot;, &quot;&quot;,<br />      <br />      &quot;--host1&quot;, &quot;<a href="imap.mail.ru">imap.mail.ru</a>&quot;,<br />      &quot;--host2&quot;, &quot;<a href="post.internat.msu.ru">post.internat.msu.ru</a>&quot;<br />    ]<br />    restart: &quot;no&quot;
+
+
+2025-03-18 - 08:29:02
+
+
+
+
+
+
+
+---
+
 ### Post 11288
 
 
