@@ -1,0 +1,10 @@
+date: 2025-03-18 00:20:23+00:00
+type: text
+text: "version: &quot;3.8&quot;\n\nservices:\n  imapsync:\n    image: gilleslamiral/imapsync\n\
+  \    entrypoint: [&quot;imapsync&quot;]\n    command: [\n      \n      &quot;--user1&quot;,\
+  \ &quot;web@internat.msu.ru&quot;,\n      &quot;--user2&quot;, &quot;web@internat.msu.ru&quot;,\n\
+  \      \n      &quot;--password1&quot;, &quot;HSqmCatx0rfUxPAPLRRz&quot;,\n    \
+  \  &quot;--password2&quot;, &quot;zxcDFrt56&quot;,\n      \n      &quot;--host1&quot;,\
+  \ &quot;<a href=\"imap.mail.ru\">imap.mail.ru</a>&quot;,\n      &quot;--host2&quot;,\
+  \ &quot;<a href=\"post.internat.msu.ru\">post.internat.msu.ru</a>&quot;\n    ]\n\
+  \    restart: &quot;no&quot;"

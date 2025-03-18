@@ -6,6 +6,168 @@
 
 ---
 
+### Post 11288
+
+
+
+
+<a href="https://www.freepik.com/free-vector/bakery-sketch-concept_2873072.htm">https://www.freepik.com/free-vector/bakery-sketch-concept_2873072.htm</a>
+
+
+2025-03-18 - 00:45:17
+
+
+
+
+
+
+
+---
+
+### Post 11287
+
+
+
+
+Нина Левина: Вкусное Волшебство
+
+
+2025-03-18 - 00:38:21
+
+
+
+
+
+
+
+---
+
+### Post 11286
+
+
+
+
+Пекарня Нины Левиной
+
+
+2025-03-18 - 00:38:13
+
+
+
+
+
+
+
+---
+
+### Post 11285
+
+
+
+
+Нинины Лакомства
+
+
+2025-03-18 - 00:36:50
+
+
+
+
+
+
+
+---
+
+### Post 11284
+
+
+
+
+adminnn
+
+
+2025-03-18 - 00:25:16
+
+
+
+
+
+
+
+---
+
+### Post 11283
+
+
+
+
+<a href="http://srv74.aesc.msu.ru:9000/">http://srv74.aesc.msu.ru:9000/</a>
+
+
+2025-03-18 - 00:25:10
+
+
+
+
+
+
+
+---
+
+### Post 11282
+
+
+
+
+rutube@internat.msu.ru<br /><br />p4%g680x4I8R04g7<br /><br /><br /><br />andreevsy@internat.msu.ru<br /><br />T1520&amp;98Payh3ya1<br /><br /><br /><br />andreevasv@internat.msu.ru<br /><br />56ehs3CeI3R1872u<br /><br /><br />savenkoae@internat.msu.ru<br /><br />a^6421HL7e080W7f<br /><br /><br /><br />likaapyan@internat.msu.ru<br /><br />vH01114xGwh5G499<br /><br /><br /><br />gerasimovai@internat.msu.ru<br /><br />W3bN14152T7e6Q6H<br /><br /><br /><br />dubrovsky@internat.msu.ru<br /><br />588138YU30DLyYG2<br /><br /><br /><br />evstratovaoa@internat.msu.ru<br /><br />09S2G3JJX32L3o1G<br /><br /><br /><br />zhuchkovanm@internat.msu.ru<br /><br />#27$p7F03*54E77n<br /><br /><br /><br />zom@internat.msu.ru<br /><br />9d0aP48981C#0VYX<br /><br /><br /><br />olympkolmogorov@internat.msu.ru<br /><br />6R$0881xB6&amp;83F20<br /><br /><br /><br />laptevaa@internat.msu.ru<br /><br />b0q7PB098fd8715m<br /><br /><br /><br />leontenkovnn@internat.msu.ru<br /><br />3g85d21$07z1v^G9<br /><br /><br /><br />litsv@internat.msu.ru<br /><br />4W106a8S892R9zZ2<br /><br /><br /><br />minakovai@internat.msu.ru<br /><br />L4i3V244#^h@4t42<br /><br /><br /><br />diakonovanv@internat.msu.ru<br /><br />0I6zm982w5tQ9M1R<br /><br /><br /><br />eng@internat.msu.ru<br /><br />602S9Y9O5d46ueva<br /><br /><br /><br />mil@internat.msu.ru<br /><br />0Z265z7#*$J7371A<br /><br /><br /><br />selivanova@internat.msu.ru<br /><br />3*Pxk129Yd8181I1<br /><br /><br /><br />admin@internat.msu.ru<br /><br />0e32VN65Y73311h%<br /><br /><br /><br />info.immc@internat.msu.ru<br /><br />5333p1P004F1*Zah<br /><br /><br /><br />turnir@internat.msu.ru<br /><br />1266Q0Jg8E@90x$9<br /><br /><br /><br />web@internat.msu.ru<br /><br />4#O378g1Q3z63UN6<br /><br /><br /><br />reading@internat.msu.ru<br /><br />7DASL98028rF6q8c<br /><br /><br /><br />adm@internat.msu.ru<br /><br />NE6125D3KZ00knJ6<br /><br /><br /><br />vos@internat.msu.ru<br /><br />W7DV84@015u#Ck00<br /><br /><br /><br />winter@internat.msu.ru<br /><br />24Im11439gP4lv63<br /><br /><br /><br />physics@internat.msu.ru<br /><br />pDl568&amp;8i498T6Mw<br /><br /><br /><br />lk@internat.msu.ru<br /><br />0cK5155j$i417X7r<br /><br /><br /><br />od@internat.msu.ru<br /><br />yfA13e3tS5E9t062<br /><br /><br /><br />ok@internat.msu.ru<br /><br />5f#619Y6p07f$62N<br /><br /><br /><br />kursy@internat.msu.ru<br /><br />S!Zo67CC3rb45726<br /><br /><br /><br />priem@internat.msu.ru<br /><br />y5502781EY35f52U<br /><br />!!!!!! other<br /><br /><br /><br />edu@internat.msu.ru<br /><br />0&amp;GV@20pE15g1r15<br /><br /><br /><br />cdo@internat.msu.ru<br /><br />5452c2p5JR7lrB$3<br /><br /><br /><br />tochilinvl@internat.msu.ru<br /><br />z50X67%R!94E373v<br /><br /><br /><br />ustinovav@internat.msu.ru<br /><br />O#330BH516m^4H%2<br /><br /><br /><br />fagurelvz@internat.msu.ru<br /><br />9C9xE49*96U067tK<br /><br /><br /><br />538MN9307m8XftQ7<br /><br /><br /><br />yurchenkoav@internat.msu.ru<br /><br />962M7y27mB727U42<br /><br /><br /><br />yakovlevavv@internat.msu.ru<br /><br />3U1rF045qfOw88a0
+
+
+2025-03-18 - 00:24:33
+
+
+
+
+
+
+
+---
+
+### Post 11281
+
+
+
+
+version: &quot;3.8&quot;<br /><br />services:<br />  imapsync:<br />    image: gilleslamiral/imapsync<br />    entrypoint: [&quot;imapsync&quot;]<br />    command: [<br />      <br />      &quot;--user1&quot;, &quot;@internat.msu.ru&quot;,<br />      &quot;--user2&quot;, &quot;@internat.msu.ru&quot;,<br />      <br />      &quot;--password1&quot;, &quot;&quot;,<br />      &quot;--password2&quot;, &quot;&quot;,<br />      <br />      &quot;--host1&quot;, &quot;<a href="imap.mail.ru">imap.mail.ru</a>&quot;,<br />      &quot;--host2&quot;, &quot;<a href="post.internat.msu.ru">post.internat.msu.ru</a>&quot;<br />    ]<br />    restart: &quot;no&quot;
+
+
+2025-03-18 - 00:20:52
+
+
+
+
+
+
+
+---
+
+### Post 11280
+
+
+
+
+version: &quot;3.8&quot;<br /><br />services:<br />  imapsync:<br />    image: gilleslamiral/imapsync<br />    entrypoint: [&quot;imapsync&quot;]<br />    command: [<br />      <br />      &quot;--user1&quot;, &quot;web@internat.msu.ru&quot;,<br />      &quot;--user2&quot;, &quot;web@internat.msu.ru&quot;,<br />      <br />      &quot;--password1&quot;, &quot;HSqmCatx0rfUxPAPLRRz&quot;,<br />      &quot;--password2&quot;, &quot;zxcDFrt56&quot;,<br />      <br />      &quot;--host1&quot;, &quot;<a href="imap.mail.ru">imap.mail.ru</a>&quot;,<br />      &quot;--host2&quot;, &quot;<a href="post.internat.msu.ru">post.internat.msu.ru</a>&quot;<br />    ]<br />    restart: &quot;no&quot;
+
+
+2025-03-18 - 00:20:23
+
+
+
+
+
+
+
+---
+
 ### Post 11279
 
 
