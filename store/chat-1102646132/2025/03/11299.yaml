@@ -1,0 +1,11 @@
+date: 2025-03-19 10:12:20+00:00
+type: text
+text: "evstratovaoa@internat.msu.ru\n\nот mail\n09S2G3JJX32L3o1G!@\n\n\nот post\n\
+  09S2G3JJX32L3o1G\n\n\n\n\n\nR5KsGLy7ZmBmVBmgDA7B\n\n\n\n\nversion: &quot;3.8&quot;\n\
+  \nservices:\n  imapsync:\n    image: gilleslamiral/imapsync\n    entrypoint: [&quot;imapsync&quot;]\n\
+  \    command: [\n      \n      &quot;--user1&quot;, &quot;evstratovaoa@internat.msu.ru&quot;,\n\
+  \      &quot;--user2&quot;, &quot;evstratovaoa@internat.msu.ru&quot;,\n      \n\
+  \      &quot;--password1&quot;, &quot;R5KsGLy7ZmBmVBmgDA7B&quot;,\n      &quot;--password2&quot;,\
+  \ &quot;09S2G3JJX32L3o1G&quot;,\n      \n      &quot;--host1&quot;, &quot;<a href=\"\
+  imap.mail.ru\">imap.mail.ru</a>&quot;,\n      &quot;--host2&quot;, &quot;<a href=\"\
+  post.internat.msu.ru\">post.internat.msu.ru</a>&quot;\n    ]\n    restart: &quot;no&quot;"
