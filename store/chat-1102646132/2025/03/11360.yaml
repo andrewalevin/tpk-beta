@@ -1,0 +1,16 @@
+date: 2025-03-23 09:56:00+00:00
+type: text
+text: 'smtp-1       | Mar 23 12:36:37 post postfix/smtp[68993]: B4E5C2D819CC: to=&lt;ksemen@mech.math.msu.su&gt;,
+  relay=<a href="mech.math.msu.su">mech.math.msu.su</a>[<a href="158.250.33.65">158.250.33.65</a>]:25,
+  delay=1.4, delays=0.42/0.03/0.68/0.23, dsn=2.0.0, status=sent (250 2.0.0 52N9aaA2029509
+  Message accepted for delivery)
+
+
+  antispam-1   | 2025-03-23 12:36:36 #152(rspamd_proxy) &lt;f88557&gt;; proxy; rspamd_task_write_log:
+  id: &lt;aa1a4a6ed3d20cf3f6a82a26ac056645@internat.msu.ru&gt;, qid: &lt;B4E5C2D819CC&gt;,
+  ip: <a href="192.168.64.3">192.168.64.3</a>, user: adm@internat.msu.ru, from: &lt;adm@internat.msu.ru&gt;,
+  (default: F (no action): [-0.10/15.00] [MIME_GOOD(-0.10){multipart/alternative;text/plain;multipart/related;},ARC_NA(0.00){},ASN(0.00){asn:55720,
+  ipnet:<a href="0.0.0.0/0">0.0.0.0/0</a>, country:MY;},DKIM_SIGNED(0.00){<a href="internat.msu.ru">internat.msu.ru</a>:s=dkim;},FROM_EQ_ENVFROM(0.00){},FROM_HAS_DN(0.00){},HAS_ORG_HEADER(0.00){},IS_LOCAL_DOMAIN_E(0.00){<a
+  href="internat.msu.ru">internat.msu.ru</a>;},IS_LOCAL_DOMAIN_H(0.00){<a href="internat.msu.ru">internat.msu.ru</a>;},MID_RHS_MATCH_FROM(0.00){},MIME_TRACE(0.00){0:+;1:+;2:+;3:~;4:~;},MISSING_XM_UA(0.00){},RCPT_COUNT_ONE(0.00){1;},RCVD_COUNT_ZERO(0.00){0;},TO_DN_ALL(0.00){},TO_MATCH_ENVRCPT_ALL(0.00){}]),
+  len: 17450, time: 286.880ms, dns req: 15, digest: &lt;a916217faf1af84ea31cb030e80f6f5a&gt;,
+  rcpts: &lt;ksemen@mech.math.msu.su&gt;, mime_rcpts: &lt;ksemen@mech.math.msu.su&gt;'
