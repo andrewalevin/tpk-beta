@@ -6,6 +6,26 @@
 
 ---
 
+### Post 11367
+
+ 
+![11367-thumbnail.webp](11367-thumbnail.webp) 
+
+
+
+
+2025-03-24 - 18:10:22
+
+
+🗂 file: [11367-sticker.tgs](11367-sticker.tgs) 
+
+
+
+
+
+
+---
+
 ### Post 11366
 
 
