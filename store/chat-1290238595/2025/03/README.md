@@ -6,6 +6,50 @@
 
 ---
 
+### Post 2577
+
+
+
+
+<a href="https://www.manning.com/books/go-in-action">Go in Action</a>
+
+
+2025-03-25 - 23:51:44
+
+
+
+
+
+
+
+---
+
+### Post 2576
+
+ 
+![2576-thumbnail.jpg](2576-thumbnail.jpg) 
+
+
+
+Программирование на языке Go. Разработка приложений XXI века
+
+
+2025-03-25 - 23:50:38
+
+
+🗂 file: [2576-document.pdf](2576-document.pdf) 
+
+
+ 
+forward:  
+
+forward date: 2025-03-25 - 23:49:16
+
+
+
+
+---
+
 ### Post 2575
 
 
