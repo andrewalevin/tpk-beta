@@ -1,6 +1,8 @@
 # 🔷 2025 - 🪲 Books. Stack - Uuuuuuuuuu-u
 
 
+ - [April](store/chat-1290238595/2025/04)
+
  - [March](store/chat-1290238595/2025/03)
 
  - [February](store/chat-1290238595/2025/02)
