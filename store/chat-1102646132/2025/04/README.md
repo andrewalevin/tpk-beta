@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11424
+
+
+
+
+<a href="https://www.electrogor.ru/garmin/velocomp/velokompyuter-garmin-edge-540-bundle-010-02694-10.html">https://www.electrogor.ru/garmin/velocomp/velokompyuter-garmin-edge-540-bundle-010-02694-10.html</a>
+
+
+2025-04-08 - 23:46:38
+
+
+
+
+
+
+
+---
+
+### Post 11423
+
+
+
+
+<a href="https://garminco.ru/velotovary/velokompyuter-edge-840-sensor-bundle/">https://garminco.ru/velotovary/velokompyuter-edge-840-sensor-bundle/</a>
+
+
+2025-04-08 - 23:45:26
+
+
+
+
+
+
+
+---
+
 ### Post 11422
 
 
