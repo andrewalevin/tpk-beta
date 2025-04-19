@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11442
+
+
+
+
+“Myers Briggs Type Indicator”<br /><br />Excerpt From<br />How to Read People Like a Book: A Guide to Speed-Reading People, Understand Body Language and Emotions, Decode Intentions, and Connect Effortlessly (Practical Emotional Intelligence Book 6)<br />W. Williams, James<br /><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0">https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0</a><br />This material may be protected by copyright.
+
+
+2025-04-19 - 17:27:41
+
+
+
+
+
+
+
+---
+
 ### Post 11441
 
 
