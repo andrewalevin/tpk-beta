@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11443
+
+
+
+
+class Solution:<br />    def findDifferentBinaryString(self, nums: List[str]) -&gt; str:<br />        dnums = [int(_n, 2) for _n in nums]<br />        size = len(nums[0])<br />        alln = list(range(2 ** size))<br />        for num in dnums:<br />            alln[num] = -1<br />        <br />        for num in alln:<br />            if num != -1:<br />                return  format(num, f&#x27;0{size}b&#x27;)
+
+
+2025-04-19 - 22:32:47
+
+
+
+
+
+
+
+---
+
 ### Post 11442
 
 
