@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11506
+
+
+
+
+<a href="https://yandex.ru/maps/org/hoka/186527795547/?from=mapframe&amp;ll=37.618507%2C55.805316&amp;z=16">https://yandex.ru/maps/org/hoka/186527795547/?from=mapframe&amp;ll=37.618507%2C55.805316&amp;z=16</a>
+
+
+2025-05-16 - 00:43:22
+
+
+
+
+
+
+
+---
+
 ### Post 11505
 
 
