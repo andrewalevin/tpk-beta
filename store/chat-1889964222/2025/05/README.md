@@ -6,6 +6,24 @@
 
 ---
 
+### Post 740
+
+
+
+
+<a href="https://gitlab.com/kapt/open-source/django-easy-quiz">https://gitlab.com/kapt/open-source/django-easy-quiz</a>
+
+
+2025-05-19 - 16:02:42
+
+
+
+
+
+
+
+---
+
 ### Post 739
 
 
