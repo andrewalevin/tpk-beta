@@ -6,6 +6,60 @@
 
 ---
 
+### Post 11519
+
+
+
+
+Можно потратить RAM и уйти в своп
+
+
+2025-05-20 - 00:37:41
+
+
+
+
+
+
+
+---
+
+### Post 11518
+
+
+
+
+• занять всю оперативную память, вызвать своп → всё начнёт тормозить или зависать
+
+
+2025-05-20 - 00:35:49
+
+
+
+
+
+
+
+---
+
+### Post 11517
+
+
+
+
+<a href="https://netdata.internat.msu.ru/spaces/srv34-privatecloud-internat-msu-ru/rooms/local/nodes/08ebabd1-9f02-4c8c-8dd7-a7a6984856d5#metrics_correlation=false&amp;after=1747546200000&amp;before=1747549800000&amp;utc=Europe%2FMoscow&amp;offset=%2B3&amp;timezoneName=Moscow%2C%20St.%20Petersburg%2C%20Volgograd%2C%20Minsk&amp;modal=&amp;modalTab=&amp;_o=rZHBSgNBDIbfZc4Gtrptp3vzovTgXqxeRIbsTFoXZmfKJFWK-O6OVQuFDrTQW0jy_cmffCr7hklaHAje0atGDRQ2piVxKAiVuV1REBgZ3nSFSvjNmBvzQENMW_PEuCJTqyv18l_LiSDGR4v-FZYBmDxZIXcXAFPKU9cpWmImbpqmKpIHXXuRNjqaO_5TqjR12LkRzJbVNdRWW9DOTQGnOJnpWo8nblwcAEev8bhloQHKe8E69kHmYdFnMEcZzL1ht9ci3scDMUFPRaUfhp97-thF59KneD9u8SIP__oG&amp;modalParams=&amp;force_play=false">https://netdata.internat.msu.ru/spaces/srv34-privatecloud-internat-msu-ru/rooms/local/nodes/08ebabd1-9f02-4c8c-8dd7-a7a6984856d5#metrics_correlation=false&amp;after=1747546200000&amp;before=1747549800000&amp;utc=Europe%2FMoscow&amp;offset=%2B3&amp;timezoneName=Moscow%2C%20St.%20Petersburg%2C%20Volgograd%2C%20Minsk&amp;modal=&amp;modalTab=&amp;_o=rZHBSgNBDIbfZc4Gtrptp3vzovTgXqxeRIbsTFoXZmfKJFWK-O6OVQuFDrTQW0jy_cmffCr7hklaHAje0atGDRQ2piVxKAiVuV1REBgZ3nSFSvjNmBvzQENMW_PEuCJTqyv18l_LiSDGR4v-FZYBmDxZIXcXAFPKU9cpWmImbpqmKpIHXXuRNjqaO_5TqjR12LkRzJbVNdRWW9DOTQGnOJnpWo8nblwcAEev8bhloQHKe8E69kHmYdFnMEcZzL1ht9ci3scDMUFPRaUfhp97-thF59KneD9u8SIP__oG&amp;modalParams=&amp;force_play=false</a>
+
+
+2025-05-20 - 00:03:53
+
+
+
+
+
+
+
+---
+
 ### Post 11516
 
 
