@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11528
+
+
+
+
+Incoming<br />6720 -all internat<br />129 - cod<br />670 - priem<br />3797 - adm<br />466 - od<br />245 - edu
+
+
+2025-05-22 - 17:33:14
+
+
+
+
+
+
+
+---
+
+### Post 11527
+
+
+
+
+Since 29 April <br /><br />Outgoing -&gt;&gt;<br />5189 all - internat<br />2417 - cdo<br />1905 - priem<br />259 - adm<br />321 - reading
+
+
+2025-05-22 - 17:33:11
+
+
+
+
+
+
+
+---
+
 ### Post 11526
 
 
