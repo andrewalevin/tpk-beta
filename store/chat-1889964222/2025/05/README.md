@@ -6,6 +6,64 @@
 
 ---
 
+### Post 750
+
+ 
+![750-thumbnail.jpg](750-thumbnail.jpg) 
+
+
+
+История С++ от 1979 до С++26: Начало. Доминирование. Туманное Будущее<br /><a href="http://youtu.be/Qoh12U4hNM8">youtu.be/Qoh12U4hNM8</a> [50:03]<br />Время Медоуказчика
+
+
+2025-05-30 - 11:19:45
+
+
+🗂 file: [750-audio.m4a](750-audio.m4a) 
+
+
+
+
+
+
+---
+
+### Post 749
+
+
+
+
+Choose one of these options. <br />Exit in seconds: 8
+
+
+2025-05-30 - 11:14:38
+
+
+
+
+
+
+
+---
+
+### Post 748
+
+
+
+
+<a href="https://youtu.be/Qoh12U4hNM8?si=lewJJ887O1Df0rAv">https://youtu.be/Qoh12U4hNM8?si=lewJJ887O1Df0rAv</a>
+
+
+2025-05-30 - 11:14:37
+
+
+
+
+
+
+
+---
+
 ### Post 747
 
 
