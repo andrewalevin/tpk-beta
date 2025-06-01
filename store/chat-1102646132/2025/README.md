@@ -1,6 +1,8 @@
 # 🔷 2025 - ♻️ Bin. General. Notes - Uuuuuuuuuu-u
 
 
+ - [June](store/chat-1102646132/2025/06)
+
  - [May](store/chat-1102646132/2025/05)
 
  - [April](store/chat-1102646132/2025/04)
