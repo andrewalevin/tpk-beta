@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11565
+
+
+
+
+<a href="https://shkola.in.ua/pidruchnyky/11-klas/istoriia-ukrainy/">https://shkola.in.ua/pidruchnyky/11-klas/istoriia-ukrainy/</a>
+
+
+2025-06-13 - 16:34:22
+
+
+
+
+
+
+
+---
+
 ### Post 11564
 
 
