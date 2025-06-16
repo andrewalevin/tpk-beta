@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11578
+
+
+
+
+When I finally got home and opened the envelope, I was so pleasantly surprised — the postcard is absolutely lovely, and it truly made my day!<br />I really enjoy calligraphy and beautiful handwriting, and the way my name and the message were written was just so charming and thoughtful. I don’t think I’ve ever seen handwriting quite like that — it felt warm and full of care, like something from family.
+
+
+2025-06-16 - 15:29:04
+
+
+
+
+
+
+
+---
+
+### Post 11577
+
+
+
+
+I didn&#x27;t notice the envelope with the postcard right away, but at home I was absolutely delighted with such a beautiful postcard!<br /><br />I really love calligraphy and beautiful handwriting, I like this characters of my name and congratulations so much, I have never seen such beautiful handwriting!
+
+
+2025-06-16 - 15:04:52
+
+
+
+
+
+
+
+---
+
 ### Post 11576
 
 
