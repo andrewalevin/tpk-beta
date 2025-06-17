@@ -1,0 +1,9 @@
+date: 2025-06-17 19:33:25+00:00
+type: text
+text: '‘/n’.join(
+
+  [
+
+  ‘ ‘*((2*len(word)-1)//2  + ‘ ‘.join(w*(i+1)) for i, w in enumerate(word) + ‘ ‘*((2*len(word)-1)//2
+
+  ])'

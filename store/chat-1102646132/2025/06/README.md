@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11581
+
+
+
+
+‘/n’.join(<br />[<br />‘ ‘*((2*len(word)-1)//2  + ‘ ‘.join(w*(i+1)) for i, w in enumerate(word) + ‘ ‘*((2*len(word)-1)//2<br />])
+
+
+2025-06-17 - 19:33:25
+
+
+
+
+
+
+
+---
+
 ### Post 11580
 
 
