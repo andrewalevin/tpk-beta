@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11589
+
+
+
+
+Given a list of stones positions (in units) in sorted ascending order, determine if the frog can cross the river by landing on the last stone. Initially, the frog is on the first stone and assumes the first jump must be 1 unit.<br /><br />If the frog&#x27;s last jump was k units, its next jump must be either k - 1, k, or k + 1 units. The frog can only jump in the forward direction.<br /><br /> <br /><br />Example 1:<br /><br />Input: stones = [0,1,3,5,6,8,12,17]<br />Output: true<br />Explanation: The frog can jump to the last stone by jumping 1 unit to the 2nd stone, then 2 units to the 3rd stone, then 2 units to the 4th stone, then 3 units to the 6th stone, 4 units to the 7th stone, and 5 units to the 8th stone.<br />Example 2:<br /><br />Input: stones = [0,1,2,3,4,8,9,11]<br />Output: false<br />Explanation: There is no way to jump to the last stone as the gap between the 5th and 6th stone is too large.
+
+
+2025-06-20 - 23:44:53
+
+
+
+
+
+
+
+---
+
+### Post 11588
+
+
+
+
+Input: nums1 = [3,4,6,5], nums2 = [9,1,2,5,8,3], k = 5<br />Output: [9,8,6,5,3]<br />Example 2:<br /><br />Input: nums1 = [6,7], nums2 = [6,0,4], k = 5<br />Output: [6,7,6,0,4]<br />Example 3:<br /><br />Input: nums1 = [3,9], nums2 = [8,9], k = 3<br />Output: [9,8,9]
+
+
+2025-06-20 - 23:39:23
+
+
+
+
+
+
+
+---
+
 ### Post 11587
 
 
