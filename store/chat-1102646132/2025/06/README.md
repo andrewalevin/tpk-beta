@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11600
+
+
+
+
+<a href="https://send.yandex.ru/manage-projects/org8250591/8250591?uid=311738514">https://send.yandex.ru/manage-projects/org8250591/8250591?uid=311738514</a>
+
+
+2025-06-26 - 16:13:55
+
+
+
+
+
+
+
+---
+
+### Post 11599
+
+
+
+
+oupk@email4.aesc.msu.ru
+
+
+2025-06-26 - 16:13:53
+
+
+
+
+
+
+
+---
+
 ### Post 11598
 
 
