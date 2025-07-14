@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11633
+
+
+
+
+<a href="https://www.mk.ru/science/2025/07/13/odin-iz-matematikov-reshivshikh-zadachu-pyatidesyatiletiya-rasskazal-chto-pomoglo-im-v-rabote.html">https://www.mk.ru/science/2025/07/13/odin-iz-matematikov-reshivshikh-zadachu-pyatidesyatiletiya-rasskazal-chto-pomoglo-im-v-rabote.html</a>
+
+
+2025-07-14 - 17:28:34
+
+
+
+
+
+
+
+---
+
 ### Post 11632
 
 
