@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11645
+
+
+
+
+JSe7OEQqbNwjqv4fyggPi6qvNj9K9hzCf4HWMU3cVuU
+
+
+2025-07-21 - 17:48:28
+
+
+
+
+
+
+
+---
+
+### Post 11644
+
+
+
+
+To proceed with Let&#x27;s Encypt pk.math.msu.ru_le1 , please add the TXT-records: &#x27;<a href="_acme-challenge.pk.math.msu.ru">_acme-challenge.pk.math.msu.ru</a>. TXT JSe7OEQqbNwjqv4fyggPi6qvNj9K9hzCf4HWMU3cVuU&#x27; to name servers &#x27;&#x27;. The next attempt to issue SSL will be made on 2025-07-21 20:06:03
+
+
+2025-07-21 - 17:48:21
+
+
+
+
+
+
+
+---
+
 ### Post 11643
 
 
