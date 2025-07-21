@@ -6,6 +6,114 @@
 
 ---
 
+### Post 11642
+
+
+
+
+<a href="_acme-challenge.pk.math.msu.ru">_acme-challenge.pk.math.msu.ru</a>. TXT sKLwACAzlqpscxh7XCiY0G3jVf_25_d2FlLETo82B8I
+
+
+2025-07-21 - 15:50:42
+
+
+
+
+
+
+
+---
+
+### Post 11641
+
+
+
+
+А если не срабуотает, то перенести <a href="http://_acme-challenge.pk.math.msu.ru/">pk.math.msu.ru</a> на <a href="ns1.hosting.reg.ru">ns1.hosting.reg.ru</a>.<br /><a href="ns2.hosting.reg.ru">ns2.hosting.reg.ru</a>.
+
+
+2025-07-21 - 15:50:24
+
+
+
+
+
+
+
+---
+
+### Post 11640
+
+
+
+
+To proceed with Let&#x27;s Encypt pk.math.msu.ru_le1 , please add the TXT-records: &#x27;<a href="_acme-challenge.pk.math.msu.ru">_acme-challenge.pk.math.msu.ru</a>. TXT sKLwACAzlqpscxh7XCiY0G3jVf_25_d2FlLETo82B8I&#x27; to name servers &#x27;&#x27;. The next attempt to issue SSL will be made on 2025-06-25 21:03:03
+
+
+2025-07-21 - 15:49:41
+
+
+
+
+
+
+
+---
+
+### Post 11639
+
+
+
+
+Давайте попробуем добавить TXT запись для <a href="pk.math.msu.ru">pk.math.msu.ru</a>.
+
+
+2025-07-21 - 15:49:40
+
+
+
+
+
+
+
+---
+
+### Post 11638
+
+
+
+
+Добрый день, Михаил Александрович! <br /><br />По домену Приемки мехмата.<br /><br />На <a href="reg.ru">reg.ru</a> проверка для сертификата SSL для неделегированных доменов, по всей видимости сдела, только по ключу через DNS устроена.<br /><br />Могли бы помочь, пожалуйста?
+
+
+2025-07-21 - 15:48:59
+
+
+
+
+
+
+
+---
+
+### Post 11637
+
+
+
+
+To proceed with Let&#x27;s Encypt pk.math.msu.ru_le1 , please add the TXT-records: &#x27;<a href="_acme-challenge.pk.math.msu.ru">_acme-challenge.pk.math.msu.ru</a>. TXT sKLwACAzlqpscxh7XCiY0G3jVf_25_d2FlLETo82B8I&#x27; to name servers &#x27;&#x27;. The next attempt to issue SSL will be made on 2025-06-25 21:03:03
+
+
+2025-07-21 - 15:41:43
+
+
+
+
+
+
+
+---
+
 ### Post 11636
 
 
