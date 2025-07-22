@@ -6,6 +6,60 @@
 
 ---
 
+### Post 11648
+
+
+
+
+<a href="_acme-challenge.pk.math.msu.ru">_acme-challenge.pk.math.msu.ru</a>. TXT JSe7OEQqbNwjqv4fyggPi6qvNj9K9hzCf4HWMU3cVuU
+
+
+2025-07-22 - 08:20:28
+
+
+
+
+
+
+
+---
+
+### Post 11647
+
+
+
+
+Я пересоздал этот сертификат.<br />Не могли бы Вы, пожалуйста, обновить значение DNS, пожалуйста?
+
+
+2025-07-22 - 08:06:38
+
+
+
+
+
+
+
+---
+
+### Post 11646
+
+
+
+
+Прошу прощения, по какой-то причине не получается перезапустить, чтобы робот проверил этот сертификат <br /><br />Cannot receive the certificate during 24 hours. No other attempts will be made
+
+
+2025-07-22 - 08:03:29
+
+
+
+
+
+
+
+---
+
 ### Post 11645
 
 
