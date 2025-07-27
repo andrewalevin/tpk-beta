@@ -6,6 +6,96 @@
 
 ---
 
+### Post 11658
+
+
+
+
+On the way, we could cook something on the gas BBQ<br />The route will be a nice mix of old historical landmarks, countryside, beautiful landscapes, and nature from the heart of Russia.
+
+
+2025-07-27 - 15:18:50
+
+
+
+
+
+
+
+---
+
+### Post 11657
+
+
+
+
+Heading out for a swim now — and I just came up with an idea for our August 10 trip!<br />I’m thinking we go to Zvenigorod. Yeah, yeah, I know Eduardo’s been there a bunch of times already, but it’ll be Oscar’s first time!<br />The day might be hot, so going somewhere close to the river sounds like the best plan.<br />We could start by exploring the town — visit the old church and the ancient monastery — then head along the river. We’ll reach the far end where there’s a bike path running right along the river. You still haven’t been out that far yet!
+
+
+2025-07-27 - 15:18:09
+
+
+
+
+
+
+
+---
+
+### Post 11656
+
+
+
+
+The route will
+
+
+2025-07-27 - 15:17:51
+
+
+
+
+
+
+
+---
+
+### Post 11655
+
+
+
+
+I have a great idea for our trip, I think we could take a barbecue with us and cook something delicious over the fire!
+
+
+2025-07-27 - 15:17:10
+
+
+
+
+
+
+
+---
+
+### Post 11654
+
+
+
+
+Тто
+
+
+2025-07-27 - 15:16:32
+
+
+
+
+
+
+
+---
+
 ### Post 11653
 
 
