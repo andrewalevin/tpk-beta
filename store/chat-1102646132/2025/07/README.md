@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11661
+
+
+
+
+Is it hot in Turkey in the middle of summer?) Which city did you go to this time?
+
+
+2025-07-27 - 17:34:09
+
+
+
+
+
+
+
+---
+
 ### Post 11660
 
 
