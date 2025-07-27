@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11653
+
+
+
+
+I have a great idea for our trip, I think we could take a barbecue with us and cook something delicious over the fire!
+
+
+2025-07-27 - 14:50:21
+
+
+
+
+
+
+
+---
+
+### Post 11652
+
+
+
+
+What city in Turkey did you go to this time?) Is it too hot there in the middle of summer?)
+
+
+2025-07-27 - 14:48:00
+
+
+
+
+
+
+
+---
+
 ### Post 11651
 
 
