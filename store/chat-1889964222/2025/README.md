@@ -1,6 +1,8 @@
 # 🔷 2025 - 🐊 IT. Archivium - Uuuuuuuuuu-u
 
 
+ - [August](store/chat-1889964222/2025/08)
+
  - [July](store/chat-1889964222/2025/07)
 
  - [June](store/chat-1889964222/2025/06)
