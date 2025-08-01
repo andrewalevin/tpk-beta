@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11666
+
+
+
+
+<a href="https://www.ozon.ru/product/shimano-deore-m5100-gruppa-1x11-skorostey-pereklyuchenie-sl-r-rd-sgs-bez-oknom-kasseta-cs-m5100-11-1571311242/?_bctx=CAQQ-qxl&amp;at=LZtl0zDEESxWRY73SrzKmmQiZK0R7VCqBWDojtvgzNVR&amp;hs=1">https://www.ozon.ru/product/shimano-deore-m5100-gruppa-1x11-skorostey-pereklyuchenie-sl-r-rd-sgs-bez-oknom-kasseta-cs-m5100-11-1571311242/?_bctx=CAQQ-qxl&amp;at=LZtl0zDEESxWRY73SrzKmmQiZK0R7VCqBWDojtvgzNVR&amp;hs=1</a>
+
+
+2025-08-01 - 19:43:35
+
+
+
+
+
+
+
+---
+
 ### Post 11665
 
 
