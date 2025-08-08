@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11698
+
+
+
+
+We’ll bring a barbecue, and Ravil is asking about Oskar — does he prefer meat, like pork and beef, or something meatless?
+
+
+2025-08-08 - 17:47:49
+
+
+
+
+
+
+
+---
+
+### Post 11697
+
+
+
+
+We ll take a barbecue, and Ravil is asking about Oskar, does he prefere meet, like poork and beef , or prefere smth meetless?
+
+
+2025-08-08 - 17:47:21
+
+
+
+
+
+
+
+---
+
 ### Post 11696
 
  
