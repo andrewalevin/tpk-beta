@@ -6,6 +6,60 @@
 
 ---
 
+### Post 11686
+
+
+
+
+I recommend to use a city bus to go without morning  fitness along street.<br /><br />You can take bus on new Arbat street opposite your home.<br /><br />It takes 13 minutes<br /><br />🚌 M3 bus -
+
+
+2025-08-08 - 17:07:54
+
+
+
+
+
+
+
+---
+
+### Post 11685
+
+
+
+
+<a href="https://yandex.com/maps/-/CHcZaWMz">https://yandex.com/maps/-/CHcZaWMz</a>
+
+
+2025-08-08 - 17:03:05
+
+
+
+
+
+
+
+---
+
+### Post 11684
+
+
+
+
+Hello! 👋 <br /><br />Let’s meet at Kutuzovskaya station 🚉 at 09:00 Sunday 10 August<br /><br />It is the same meeting point where we met few weeks when we go to Peredelkino (rain, forest cafe and game)
+
+
+2025-08-08 - 17:02:12
+
+
+
+
+
+
+
+---
+
 ### Post 11683
 
 
