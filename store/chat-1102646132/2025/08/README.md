@@ -6,6 +6,208 @@
 
 ---
 
+### Post 11696
+
+ 
+![11696-photo.jpg](11696-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:32:09
+
+
+🗂 file: [11696-photo.jpg](11696-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11695
+
+ 
+![11695-photo.jpg](11695-photo.jpg) 
+
+
+
+I recommend to use a city bus to go without morning  fitness along street.<br /><br />You can take bus on new Arbat street opposite your home.<br /><br />It takes 13 minutes<br /><br />🚌 M3 bus - 08:33, 08:44, 08:54<br /><br />Or<br /><br />🚌 M7 bus - 08:34, 08:50
+
+
+2025-08-08 - 17:32:09
+
+
+🗂 file: [11695-photo.jpg](11695-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11694
+
+ 
+![11694-photo.jpg](11694-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:56
+
+
+🗂 file: [11694-photo.jpg](11694-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11693
+
+ 
+![11693-photo.jpg](11693-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:56
+
+
+🗂 file: [11693-photo.jpg](11693-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11692
+
+ 
+![11692-photo.jpg](11692-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:42
+
+
+🗂 file: [11692-photo.jpg](11692-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11691
+
+ 
+![11691-photo.jpg](11691-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:42
+
+
+🗂 file: [11691-photo.jpg](11691-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11690
+
+ 
+![11690-photo.jpg](11690-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:42
+
+
+🗂 file: [11690-photo.jpg](11690-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11689
+
+ 
+![11689-photo.jpg](11689-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:37
+
+
+🗂 file: [11689-photo.jpg](11689-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11688
+
+ 
+![11688-photo.jpg](11688-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:37
+
+
+🗂 file: [11688-photo.jpg](11688-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11687
+
+ 
+![11687-photo.jpg](11687-photo.jpg) 
+
+
+
+
+2025-08-08 - 17:31:37
+
+
+🗂 file: [11687-photo.jpg](11687-photo.jpg) 
+
+
+
+
+
+
+---
+
 ### Post 11686
 
 
