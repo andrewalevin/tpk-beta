@@ -6,6 +6,60 @@
 
 ---
 
+### Post 11708
+
+
+
+
+I asked another rare member of our crew — Igor. Remember him? <br /><br />The last guy from our trip to Serpukhov. He missed our trips this summer because he was busy preparing for his upcoming wedding — ahaha! 🤣<br /><br />Can I bring him along, together with his future wife, Ksenia?
+
+
+2025-08-14 - 15:34:24
+
+
+
+
+
+
+
+---
+
+### Post 11707
+
+
+
+
+Hello! I got your invitation!<br /><br />Plus three people on the coupon — ahaha, the best solution!<br /><br />I’ll be there! 🤗<br /><br />Ravil and Olya are still deciding, and Kirill is in Armenia, hiking in the mountains.
+
+
+2025-08-14 - 15:33:05
+
+
+
+
+
+
+
+---
+
+### Post 11706
+
+
+
+
+Hello! I we received your invitation!<br /><br />Plus 3 people in coupon, ahahaha) Best solution.<br /><br />I ll be! 🤗<br /><br />Ravil, Olya are thinking, Kirill still in Armenia, hiking mountains.<br /><br />I asked another rear memeber of crew Igor, remember him, the last gue from our trip to Serpuhov,  he missed our trips  this summer, preparing for upcoming wending, ahahaha)<br /><br />Can I take him together and his future wife Ksenia?
+
+
+2025-08-14 - 15:31:06
+
+
+
+
+
+
+
+---
+
 ### Post 11705
 
 
