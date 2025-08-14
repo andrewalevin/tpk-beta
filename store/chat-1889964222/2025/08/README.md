@@ -6,6 +6,78 @@
 
 ---
 
+### Post 789
+
+
+
+
+<a href="https://news.ycombinator.com/">https://news.ycombinator.com/</a>
+
+
+2025-08-14 - 01:51:00
+
+
+
+
+
+
+
+---
+
+### Post 788
+
+
+
+
+<a href="https://www.producthunt.com/">https://www.producthunt.com/</a>
+
+
+2025-08-14 - 01:38:53
+
+
+
+
+
+
+
+---
+
+### Post 787
+
+
+
+
+<a href="https://dev.to/">https://dev.to/</a>
+
+
+2025-08-14 - 01:38:44
+
+
+
+
+
+
+
+---
+
+### Post 786
+
+
+
+
+<a href="https://lobste.rs/">https://lobste.rs/</a>
+
+
+2025-08-14 - 01:38:40
+
+
+
+
+
+
+
+---
+
 ### Post 785
 
 
