@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11718
+
+
+
+
+Шабайкин Равиль Русланович<br />Здорова Ольга Германовна<br />Чикилин Александр Александрович<br />Чикилин Юлия<br /><br />ravi11@live.ru<br /><br />(single email for these four gues, can be sent one envetation, one group one family)<br /><br />Валишина Алия Аксановна<br />alya_valishina@bk.ru
+
+
+2025-08-18 - 19:31:34
+
+
+
+
+
+
+
+---
+
 ### Post 11717
 
 
