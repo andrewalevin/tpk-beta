@@ -6,6 +6,42 @@
 
 ---
 
+### Post 11725
+
+
+
+
+Солнечногорского - с юго-запада Пятницким шоссе и линией Коростово - Подолино - Брехово (за исключением названных населенных пунктов и Пятницкого шоссе)
+
+
+2025-08-20 - 02:32:17
+
+
+
+
+
+
+
+---
+
+### Post 11724
+
+
+
+
+<a href="https://zakon.ru/blog/2023/10/4/territorii_s_reglamentirovannym_posescheniem_inostrannymi_grazhdanami">https://zakon.ru/blog/2023/10/4/territorii_s_reglamentirovannym_posescheniem_inostrannymi_grazhdanami</a>
+
+
+2025-08-20 - 02:32:04
+
+
+
+
+
+
+
+---
+
 ### Post 11723
 
 
