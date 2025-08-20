@@ -6,6 +6,182 @@
 
 ---
 
+### Post 11734
+
+ 
+![11734-photo.jpg](11734-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11734-photo.jpg](11734-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11733
+
+ 
+![11733-photo.jpg](11733-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11733-photo.jpg](11733-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11732
+
+ 
+![11732-photo.jpg](11732-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11732-photo.jpg](11732-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11731
+
+ 
+![11731-photo.jpg](11731-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11731-photo.jpg](11731-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11730
+
+ 
+![11730-photo.jpg](11730-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11730-photo.jpg](11730-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11729
+
+ 
+![11729-photo.jpg](11729-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11729-photo.jpg](11729-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11728
+
+ 
+![11728-photo.jpg](11728-photo.jpg) 
+
+
+
+
+2025-08-20 - 17:36:28
+
+
+🗂 file: [11728-photo.jpg](11728-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11727
+
+
+
+
+Hello, Oskar,<br /><br />Tomorrow the forecast says rain all day — the perfect excuse to visit a museum.<br /><br />I suggest the Pushkin Museum, which holds one of the greatest collections of Impressionist and Post-Impressionist art outside France — on par with the Musée d’Orsay in Paris. It’s a unique treasure of world culture right in the center of Moscow, often overlooked even by locals, which makes the discovery feel even more special.<br /><br />You’ll see masterpieces like Monet’s Boulevard des Capucines, Van Gogh’s Red Vineyard at Arles (the only painting he ever sold in his lifetime), Cézanne’s Blue Landscape, and works by Gauguin, Renoir, Matisse, and Picasso.<br /><br />The museum is just a 15-minute walk from Arbat and Eduardo’s place, very convenient. It’s not too large, so about an hour is enough to enjoy the highlights.<br /><br />If you’re free tomorrow, Thursday, August 21, we can go in the afternoon anytime between 15:00 and 19:00 (last entry).
+
+
+2025-08-20 - 17:32:30
+
+
+
+
+
+
+
+---
+
+### Post 11726
+
+
+
+
+<a href="https://yandex.ru/maps/org/gosudarstvenny_muzey_izobrazitelnykh_iskusstv_imeni_a_s_pushkina/1072168294/?ll=37.605194%2C55.747277&amp;z=16.95">https://yandex.ru/maps/org/gosudarstvenny_muzey_izobrazitelnykh_iskusstv_imeni_a_s_pushkina/1072168294/?ll=37.605194%2C55.747277&amp;z=16.95</a>
+
+
+2025-08-20 - 17:30:54
+
+
+
+
+
+
+
+---
+
 ### Post 11725
 
 
