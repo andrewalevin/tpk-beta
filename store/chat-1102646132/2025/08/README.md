@@ -6,6 +6,78 @@
 
 ---
 
+### Post 11741
+
+
+
+
+<a href="https://leetcode.com/problems/random-pick-with-weight/description/?envType=problem-list-v2&amp;envId=randomized">https://leetcode.com/problems/random-pick-with-weight/description/?envType=problem-list-v2&amp;envId=randomized</a>
+
+
+2025-08-25 - 23:46:48
+
+
+
+
+
+
+
+---
+
+### Post 11740
+
+
+
+
+<a href="https://leetcode.com/problems/best-position-for-a-service-centre/description/?envType=problem-list-v2&amp;envId=randomized">https://leetcode.com/problems/best-position-for-a-service-centre/description/?envType=problem-list-v2&amp;envId=randomized</a>
+
+
+2025-08-25 - 23:46:32
+
+
+
+
+
+
+
+---
+
+### Post 11739
+
+
+
+
+<a href="https://leetcode.com/problems/random-pick-with-blacklist/description/?envType=problem-list-v2&amp;envId=randomized">https://leetcode.com/problems/random-pick-with-blacklist/description/?envType=problem-list-v2&amp;envId=randomized</a>
+
+
+2025-08-25 - 23:46:28
+
+
+
+
+
+
+
+---
+
+### Post 11738
+
+
+
+
+🍓<a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/?envType=problem-list-v2&amp;envId=randomized">https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/?envType=problem-list-v2&amp;envId=randomized</a>
+
+
+2025-08-25 - 23:46:19
+
+
+
+
+
+
+
+---
+
 ### Post 11737
 
 
