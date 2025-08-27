@@ -6,6 +6,110 @@
 
 ---
 
+### Post 11760
+
+ 
+![11760-photo.jpg](11760-photo.jpg) 
+
+
+
+В воскресенье погода становится лучше и дальше там вообще лето начинаеися 🤣
+
+
+2025-08-27 - 18:30:41
+
+
+🗂 file: [11760-photo.jpg](11760-photo.jpg) 
+
+
+ 
+forward:  
+
+forward date: 2025-08-27 - 17:41:26
+
+
+
+
+---
+
+### Post 11759
+
+ 
+![11759-photo.jpg](11759-photo.jpg) 
+
+
+
+
+2025-08-27 - 18:27:51
+
+
+🗂 file: [11759-photo.jpg](11759-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11758
+
+ 
+![11758-photo.jpg](11758-photo.jpg) 
+
+
+
+
+2025-08-27 - 18:27:45
+
+
+🗂 file: [11758-photo.jpg](11758-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11757
+
+ 
+![11757-photo.jpg](11757-photo.jpg) 
+
+
+
+
+2025-08-27 - 18:27:31
+
+
+🗂 file: [11757-photo.jpg](11757-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11756
+
+
+
+
+Kirill and I are thinking of going again this Sunday, August 31, to Torzhok–Tver!<br />Last time it started raining, and we couldn’t finish the whole route.<br />Now the weather forecast looks warm, and since it’s probably the last chance this summer for such a long trip (on August 31), we’d love to go!<br />If you have the time and feel like getting up a bit earlier this Sunday to join us on this little adventure, come along! 🚗🌞
+
+
+2025-08-27 - 18:26:38
+
+
+
+
+
+
+
+---
+
 ### Post 11755
 
 
