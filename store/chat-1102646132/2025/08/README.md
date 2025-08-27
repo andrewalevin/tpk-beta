@@ -6,6 +6,44 @@
 
 ---
 
+### Post 11755
+
+
+
+
+Check out my ride on Strava.<br /><a href="https://www.strava.com/activities/15413309431">https://www.strava.com/activities/15413309431</a>
+
+
+2025-08-27 - 16:20:40
+
+
+
+
+
+
+
+---
+
+### Post 11754
+
+ 
+![11754-photo.jpg](11754-photo.jpg) 
+
+
+
+
+2025-08-27 - 16:20:40
+
+
+🗂 file: [11754-photo.jpg](11754-photo.jpg) 
+
+
+
+
+
+
+---
+
 ### Post 11753
 
 
