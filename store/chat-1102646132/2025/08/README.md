@@ -6,6 +6,60 @@
 
 ---
 
+### Post 11752
+
+
+
+
+Thank you so much! Someday we really should get together again, and I definitely want to visit Mexico! 💛🇲🇽
+
+
+2025-08-27 - 15:26:51
+
+
+
+
+
+
+
+---
+
+### Post 11751
+
+
+
+
+Hi Oscar! I’m so happy that you and your family made it home safely. I hope the long trip here wasn’t too exhausting for you all. I also hope you took back wonderful emotions and unforgettable impressions!<br />It really means a lot to me to have met you and your family. Please send them my warm regards!
+
+
+2025-08-27 - 15:23:26
+
+
+
+
+
+
+
+---
+
+### Post 11750
+
+
+
+
+Привет Оскар! Очень рад, что ты со свей семьей успешно добрался домой. Надеюсь, вы не так устали от такой далекой дороги к нам сюда. Надеюсь, вы получили невероятные эмоции и впечатления!<br /><br />Я очень рад и тронут познакомиться с тобой и твоей семьей.<br />Передай им привет!
+
+
+2025-08-27 - 15:20:44
+
+
+
+
+
+
+
+---
+
 ### Post 11749
 
 
