@@ -6,6 +6,102 @@
 
 ---
 
+### Post 11777
+
+
+
+
+👉 Just check the best way to get there in the morning — there might be some roadwork 🚧 that could add a bit of extra time.
+
+
+2025-08-29 - 23:13:54
+
+
+
+
+
+
+
+---
+
+### Post 11776
+
+
+
+
+55.775832, 37.655555
+
+
+2025-08-29 - 23:13:43
+
+
+
+
+
+
+
+---
+
+### Post 11775
+
+
+
+
+📍 Exact spot:<br /><a href="https://yandex.ru/maps/-/CLEUBS1v">https://yandex.ru/maps/-/CLEUBS1v</a><br />55.775832, 37.655555
+
+
+2025-08-29 - 23:13:36
+
+
+
+
+
+
+
+---
+
+### Post 11774
+
+ 
+![11774-photo.jpg](11774-photo.jpg) 
+
+
+
+
+2025-08-29 - 23:12:43
+
+
+🗂 file: [11774-photo.jpg](11774-photo.jpg) 
+
+
+
+
+
+
+---
+
+### Post 11773
+
+ 
+![11773-photo.jpg](11773-photo.jpg) 
+
+
+
+Let’s meet on the steps of Leningradsky Station (the one you took to St. Petersburg) 🚉<br /><br />⏰ Sunday, August 31<br /><br />06:49<br /><br />We’ll be there and waiting for you 😄
+
+
+2025-08-29 - 23:12:43
+
+
+🗂 file: [11773-photo.jpg](11773-photo.jpg) 
+
+
+
+
+
+
+---
+
 ### Post 11772
 
 
