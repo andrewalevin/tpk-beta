@@ -6,6 +6,24 @@
 
 ---
 
+### Post 11772
+
+
+
+
+<a href="https://andrewalevin.github.io/medieval-east-slavic-towns/">https://andrewalevin.github.io/medieval-east-slavic-towns/</a>
+
+
+2025-08-29 - 19:58:02
+
+
+
+
+
+
+
+---
+
 ### Post 11771
 
  
